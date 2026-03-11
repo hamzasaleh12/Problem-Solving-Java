@@ -35,3 +35,23 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hamza-saleh-908662392)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+<!---LeetCode Topics End-->
