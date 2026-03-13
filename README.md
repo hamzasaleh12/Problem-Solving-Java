@@ -45,6 +45,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -53,6 +54,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -66,9 +68,11 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
