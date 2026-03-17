@@ -44,6 +44,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
@@ -77,6 +78,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
@@ -93,4 +95,16 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
