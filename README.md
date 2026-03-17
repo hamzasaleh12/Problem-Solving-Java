@@ -50,6 +50,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -62,6 +63,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -71,6 +73,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -84,6 +87,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -107,4 +111,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
