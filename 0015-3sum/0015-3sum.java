@@ -4,12 +4,16 @@ class Solution {
         if(nums == null) return result;
         Arrays.sort(nums);
 
-        for(int i = 0 ; i < nums.length ; i++){
+        for(int i = 0 ; i < nums.length - 2 ; i++){
+            if(nums[i] > 0) break;
+
             if(i > 0 && nums[i] == nums[i - 1]) continue;
+
             int left = i + 1;
             int right = nums.length - 1;
             while(left < right){
                 int sum = nums[left] + nums[right] + nums[i];
+
                 if(sum == 0){
                     result.add(List.of(nums[left] , nums[i] , nums[right])); 
                     left++;
