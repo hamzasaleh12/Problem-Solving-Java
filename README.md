@@ -102,6 +102,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -134,6 +135,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -164,4 +166,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
