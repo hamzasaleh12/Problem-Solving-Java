@@ -3,23 +3,19 @@ class Solution {
         int left = 0;
         int right = height.length - 1;
 
-        int maxLeft = height[left];
-        int maxRight = height[right];
+        int maxLeft = 0;
+        int maxRight = 0;
 
         int count = 0;
         while(left < right){
             if(height[left] <= height[right]){
+                if(maxLeft <= height[left]) maxLeft = height[left];
+                else count += maxLeft - height[left];
                 left++;
-                if(maxLeft < height[left]){
-                    maxLeft = Math.max(maxLeft , height[left]);
-                }
-                count += maxLeft - height[left];
             } else{
+                if(maxRight < height[right]) maxRight = height[right];
+                else count += maxRight - height[right];
                 right--;
-                if(maxRight < height[right]){
-                    maxRight = Math.max(maxRight , height[right]);
-                }
-                count += maxRight - height[right];
             }
         }
         return count;
