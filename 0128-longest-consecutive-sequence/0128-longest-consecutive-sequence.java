@@ -8,11 +8,10 @@ class Solution {
         }
 
         int longestConsecutive = 0;
-        for(int i = 0; i < nums.length ; i++){
-            if(i > 0 && nums[i] == nums[i - 1]) continue;
-            if(!set.contains(nums[i] - 1)){
+        for(int num : set){
+            if(!set.contains(num - 1)){
                 int count = 1;
-                while(set.contains(nums[i] + count)){ // f
+                while(set.contains(num + count)){ // f
                     count++;
                 }
                 longestConsecutive = Math.max(longestConsecutive , count); // 1 , 4
