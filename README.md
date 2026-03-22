@@ -115,6 +115,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -130,6 +131,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -170,6 +172,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
