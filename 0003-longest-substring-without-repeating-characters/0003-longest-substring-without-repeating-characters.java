@@ -4,17 +4,18 @@ class Solution {
 
         int[] lastIndex = new int[128];
         int maxLength = 0;
-        Arrays.fill(lastIndex , -1);
 
         int left = 0;
         for(int right = 0 ; right < s.length() ; right++){
-            char curr = s.charAt(right); // p , w , w
-            if(lastIndex[curr] != -1){ // f , f , t
-                left = Math.max(left , lastIndex[curr] + 1); // left=2
-            }
-            lastIndex[curr] = right; // [p]=0 , [w]=1 , [w]=2
+            char curr = s.charAt(right);
 
-            maxLength = Math.max(maxLength , right - left + 1); // max=2
+            if(lastIndex[curr] != 0){
+                left = Math.max(left , lastIndex[curr]);
+            }
+
+            lastIndex[curr] = right + 1;
+
+            maxLength = Math.max(maxLength , right - left + 1);
         }
         return maxLength;
     }
