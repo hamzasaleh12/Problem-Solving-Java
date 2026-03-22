@@ -121,6 +121,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -134,6 +135,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Design
 |  |
@@ -173,6 +175,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
