@@ -114,6 +114,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,10 +204,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |
 | ------- |
