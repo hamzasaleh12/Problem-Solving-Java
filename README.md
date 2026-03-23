@@ -110,6 +110,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -154,6 +155,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -180,6 +182,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
@@ -206,4 +209,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
