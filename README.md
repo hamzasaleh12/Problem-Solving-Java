@@ -95,6 +95,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
