@@ -96,6 +96,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,10 +150,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
