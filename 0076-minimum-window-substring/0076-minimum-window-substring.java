@@ -11,6 +11,7 @@ class Solution {
 
         int[] needArr = new int[128];
         int need = 0;
+
         int minLength = Integer.MAX_VALUE;
         int left = 0;
         int l = 0 , r = 0;
@@ -27,6 +28,7 @@ class Solution {
                 needArr[s.charAt(left++)]--;
             }
         }
+        
         return s.substring(l,r);
     }
 }
