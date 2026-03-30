@@ -133,6 +133,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -207,6 +208,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0011-container-with-most-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -243,4 +245,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
