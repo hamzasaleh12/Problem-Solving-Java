@@ -11,21 +11,17 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        //Initialize pointers
+        if(head == null) return false;
+
         ListNode slow = head;
         ListNode fast = head;
-        
-        // Traverse list
-        while(fast != null && fast.next != null){
 
-            //Advance pointers
+        while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
+            if(slow == fast) return true;
+        }
 
-            // Check if Cycle is detected
-            if(fast == slow) return true;
-        } 
-        // No cycle found
         return false;
     }
 }
