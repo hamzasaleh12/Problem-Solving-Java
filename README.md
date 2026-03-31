@@ -249,4 +249,9 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
