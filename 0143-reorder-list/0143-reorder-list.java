@@ -10,36 +10,40 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+        // 1 -> 2 -> 3 -> 4 -> 5
+        // 1 -> 2 , 3 -> 4
+        ListNode slow = head; // 1
+        ListNode fast = head.next; // 2
         while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+            slow = slow.next; // 2 , 3
+            fast = fast.next.next; //4 , null
         }
-        // 1 2 3 4 5 -> slow = 3
-        ListNode current = slow.next; // 4
-        slow.next = null; // 1 -> 2 -> 3 || 4 -> 5
+        // 1 -> 2 -------- 3 -> 4
+        // 1 -> 2 -> 3 --- 4 -> 5
+        ListNode curr = slow.next;
         ListNode prev = null;
-        while(current != null){ // 4 != null , 5 != null , f
-            ListNode temp = current.next; // 5 , null
-            current.next = prev; // 4 -> null , 5 -> 4 -> null
-            prev = current; // 4 , 5
-            current = temp; // 5 , null
+        slow.next = null;
+        while(curr != null){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-        // 1 -> 2 -> 3 || 5 -> 4
+        // 1(head) -> 2(slow) -------- 4(prev) -> 3
+        // 1(head) -> 2 -> 3(slow) --- 5(prev) -> 4
 
-        ListNode first = head;
-        ListNode second = prev; 
-        while(second != null){
-            ListNode tem1 = first.next; // 2 -> 3 , 3
-            ListNode tem2 = second.next; // 4  , null
+        ListNode fir = head; // 1 -> 2
+        ListNode sec = prev; // 4 -> 3
+        while(sec != null){
+            ListNode temp1 = fir.next; // 2 , null
+            ListNode temp2 = sec.next; // 3 , null
 
-            first.next = second; // 1 -> 5 
-            second.next = tem1; // 5 -> 2
+            fir.next = sec; // 1 -> 4 -> 2 -> 3
+            sec.next = temp1; // 4 -> 2 -> 3 -> null
 
-
-            first = tem1; // 2 -> 3
-            second = tem2; // 4
-        }
+            fir = temp1; // 2 , null
+            sec = temp2; // 3 , null
+        } 
+        // 1 -> 4 -> 2 -> 3 -> null
     }
 }
