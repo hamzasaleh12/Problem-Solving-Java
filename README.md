@@ -97,6 +97,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
@@ -212,6 +214,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -267,4 +270,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0021-merge-two-sorted-lists](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
