@@ -15,6 +15,7 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        
         Node curr = head;
         while(curr != null){
             Node temp = curr.next;
@@ -23,25 +24,26 @@ class Solution {
             newNode.next = temp;
             curr = temp;
         }
-        Node cur = head;
-        while(cur != null && cur.next != null){
-            cur.next.random = (cur.random != null ) ? cur.random.next : null;
-            cur = cur.next.next;
+
+        curr = head;
+        while(curr != null && curr.next != null){
+            curr.next.random = (curr.random != null ) ? curr.random.next : null;
+            curr = curr.next.next;
         }
 
-        Node current = head;
+        curr = head;
         Node dummy = new Node(-1);
         Node newHead = dummy;
 
         // 7 -> 7 -> 13 -> 13 -> 11 -> 11 -> 10 -> 10 -> 1 -> 1 -> null
-        while(current != null && current.next != null){
-            Node copy = current.next; // 7(c) , 13(c)
+        while(curr != null && curr.next != null){
+            Node copy = curr.next; // 7(c) , 13(c)
             Node ori = copy.next; // 13 , 11
 
-            current.next = ori; // 7 -> 13 -> 11
+            curr.next = ori; // 7 -> 13 -> 11
             newHead.next = copy; // -1 -> 7(c) -> 13(c)
 
-            current = ori; // 13
+            curr = ori; // 13
             newHead = copy; // 11
         }
 
