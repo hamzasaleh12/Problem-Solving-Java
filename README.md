@@ -104,6 +104,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
@@ -114,6 +115,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
@@ -148,6 +150,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 ## String
