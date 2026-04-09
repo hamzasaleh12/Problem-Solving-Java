@@ -4,11 +4,10 @@ class Solution {
         int max = Integer.MIN_VALUE;
 
         for(int i = 0 ; i < nums.length ; i++){
-            currentSum = Math.max(currentSum , 0);
-            currentSum += nums[i];
+            currentSum = Math.max(nums[i] , currentSum + nums[i]);
             max = Math.max(max , currentSum);
         }
-        
+
         return max;
     }
 }
