@@ -53,6 +53,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -67,6 +68,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -93,6 +95,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -300,4 +303,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
