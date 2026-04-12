@@ -15,8 +15,7 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        boolean[] isBalanced = new boolean[1];
-        isBalanced[0] = true;
+        boolean[] isBalanced = {true};
         helper(root , isBalanced);
         return isBalanced[0];
     }
