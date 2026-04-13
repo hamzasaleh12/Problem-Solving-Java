@@ -14,15 +14,13 @@
  * }
  */
 class Solution {
-    int count = 0;
-    int result = -1;
     public int kthSmallest(TreeNode root, int k) {
         int[] countAndRes = {0 , -1};
         helper(root , k , countAndRes);
         return countAndRes[1];
     }
     private void helper(TreeNode root, int k , int[] countAndRes){
-        if(root == null || result != -1) return;
+        if(root == null || countAndRes[1] != -1) return;
 
         helper(root.left , k , countAndRes);
         
