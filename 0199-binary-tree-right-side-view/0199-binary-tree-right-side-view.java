@@ -18,18 +18,18 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         if(root == null) return result;
 
-        ArrayDeque<TreeNode> queue = new ArrayDeque<>();
-        queue.offer(root);
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        queue.add(root);
 
         while(!queue.isEmpty()){
             int levelSize = queue.size();
 
-            for(int i = 0 ; i < levelSize ; i++){
-                TreeNode currNode = queue.poll();
-                if(i == levelSize - 1) result.add(currNode.val);
+            for(int i = 0; i < levelSize ; i++){
+                TreeNode temp = queue.poll();
+                if(i == levelSize - 1) result.add(temp.val);
 
-                if(currNode.left != null) queue.offer(currNode.left);
-                if(currNode.right != null) queue.offer(currNode.right);
+                if(temp.left != null) queue.add(temp.left);
+                if(temp.right != null) queue.add(temp.right);
             }
         }
         return result;
