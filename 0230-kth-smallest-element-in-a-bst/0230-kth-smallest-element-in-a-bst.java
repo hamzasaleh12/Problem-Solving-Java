@@ -14,25 +14,17 @@
  * }
  */
 class Solution {
-
-     int count = 0;
-     int result = 0;
-
+    int count = 0;
+    int tar = 0;
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root , k);
-        return result;
-    }
-    public void inorder(TreeNode root, int k) {
-        if (root == null || result != 0) return;
+        if(root == null) return 0;
 
-        inorder(root.left,k);
+        kthSmallest(root.left , k);
+        
+        if(++count == k) tar = root.val;
 
-        count++;
-        if(count == k){
-            result = root.val;
-            return;
-        }
+        kthSmallest(root.right , k);
 
-        inorder(root.right, k);
+        return tar;
     }
 }
