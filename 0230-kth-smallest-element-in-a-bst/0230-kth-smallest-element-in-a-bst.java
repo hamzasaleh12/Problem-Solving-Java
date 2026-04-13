@@ -15,16 +15,22 @@
  */
 class Solution {
     int count = 0;
-    int tar = 0;
+    int result = -1;
     public int kthSmallest(TreeNode root, int k) {
-        if(root == null) return 0;
+        int[] countAndRes = {0 , -1};
+        helper(root , k , countAndRes);
+        return countAndRes[1];
+    }
+    private void helper(TreeNode root, int k , int[] countAndRes){
+        if(root == null || result != -1) return;
 
-        kthSmallest(root.left , k);
+        helper(root.left , k , countAndRes);
         
-        if(++count == k) tar = root.val;
+        if(++countAndRes[0] == k) {
+            countAndRes[1] = root.val;
+            return;
+        }
 
-        kthSmallest(root.right , k);
-
-        return tar;
+        helper(root.right , k , countAndRes);
     }
 }
