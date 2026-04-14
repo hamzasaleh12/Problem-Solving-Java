@@ -46,6 +46,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
@@ -90,6 +91,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
@@ -130,6 +132,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -149,6 +152,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
@@ -165,6 +169,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0023-merge-k-sorted-lists](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
