@@ -74,6 +74,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -85,6 +86,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -148,6 +150,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
@@ -255,6 +258,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,6 +310,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
