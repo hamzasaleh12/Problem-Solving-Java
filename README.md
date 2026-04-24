@@ -66,6 +66,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
@@ -82,6 +83,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0100-same-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
@@ -141,6 +143,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
@@ -257,6 +260,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
@@ -309,6 +313,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 ## Queue
