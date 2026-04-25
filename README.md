@@ -89,6 +89,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -160,6 +161,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -263,6 +265,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
