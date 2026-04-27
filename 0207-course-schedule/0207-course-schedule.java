@@ -14,13 +14,13 @@ class Solution {
     }
     private boolean dfs(int key , int[] visited , Map<Integer,List<Integer>> map){
         if(visited[key] == 1) return false;
-        if(visited[key] == 2) return true;
+        if(visited[key] == 2 || map.get(key) == null) return true;
+
         visited[key]++; // 1
-        if(map.get(key) != null){
-            for(int n : map.get(key)){
-                if(!dfs(n , visited , map)) return false;
-            }
+        for(int n : map.get(key)){
+            if(!dfs(n , visited , map)) return false;
         }
+
         visited[key]++; // 2
         return true;
     }
