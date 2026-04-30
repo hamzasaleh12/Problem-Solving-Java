@@ -3,7 +3,7 @@ class Solution {
         int[] parents = new int[edges.length + 1];
         int[] rank = new int[edges.length + 1];
         for(int i = 1 ; i <= edges.length ; i++){
-            parents[i] = i; // 1 -> 1 , ...
+            parents[i] = i;
         }
 
         for(int[] edge : edges){
@@ -17,14 +17,21 @@ class Solution {
         
         return null;
     }
-    // [0 , 1 , 1 , 2 , 2 , 3] -> 5
-    private int find(int val , int[] parents){ // 5 , parents  , 3
-        if(parents[val] == val) return val; // 3 = 5 ? f , 2 = 3 ? f , 1 = 2 ? f , 1 = 1 ? t
+    
+    private int find(int val , int[] parents){
+        if(parents[val] == val) return val;
 
-        return parents[val] = find(parents[val] , parents); // كاني بعمل كاشينج للمعلومه
+        return parents[val] = find(parents[val] , parents);
     }
     private void union(int fir , int sec , int[] parents , int[] rank){
-        if(rank[fir] >= rank[sec]) parents[sec] = fir;
-        else parents[fir] = sec;
+        if(rank[fir] > rank[sec]) {
+            parents[sec] = fir;
+        }
+        else if(rank[sec] > rank[fir]) {
+            parents[fir] = sec;
+        } else{
+            parents[sec] = fir;
+            rank[fir]++;
+        }
     }
 }
