@@ -155,6 +155,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -240,6 +241,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
@@ -307,6 +309,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
