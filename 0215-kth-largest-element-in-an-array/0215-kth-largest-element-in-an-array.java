@@ -2,40 +2,45 @@ import java.util.Random;
 
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        int n = nums.length;
-        int target = n - k;
-        int start = 0;
-        int end = n - 1;
-        Random rand = new Random();
-
-        while (start <= end) {
-            int pivotIndex = rand.nextInt(end - start + 1) + start;
-            swap(nums, pivotIndex, end);
-
-            int mid = partition(nums, start, end);
-
-            if (mid == target) {
-                return nums[mid];
-            } else if (mid < target) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
+        int target = nums.length - k;
+        // 1. Shuffle الـ array مرة واحدة عشان نهرب من الـ worst cases
+        shuffle(nums);
+        
+        int start = 0, end = nums.length - 1;
+        while (start < end) {
+            int pivotIndex = partition(nums, start, end);
+            if (pivotIndex < target) start = pivotIndex + 1;
+            else if (pivotIndex > target) end = pivotIndex - 1;
+            else break;
         }
-        return -1;
+        return nums[target];
     }
 
-    private int partition(int[] nums, int start, int end) {
-        int pivot = nums[end];
-        int i = start - 1;
-        for (int j = start; j < end; j++) {
-            if (nums[j] < pivot) {
-                i++;
+    // Hoare Partition: أسرع بكتير في التعامل مع الـ Duplicates
+    private int partition(int[] nums, int left, int right) {
+        int pivot = nums[left];
+        int i = left + 1;
+        int j = right;
+        
+        while (i <= j) {
+            while (i <= j && nums[i] < pivot) i++;
+            while (i <= j && nums[j] > pivot) j--;
+            if (i <= j) {
                 swap(nums, i, j);
+                i++;
+                j--;
             }
         }
-        swap(nums, i + 1, end);
-        return i + 1;
+        swap(nums, left, j);
+        return j;
+    }
+
+    private void shuffle(int[] nums) {
+        Random rand = new Random();
+        for (int i = 0; i < nums.length; i++) {
+            int r = rand.nextInt(nums.length);
+            swap(nums, i, r);
+        }
     }
 
     private void swap(int[] nums, int i, int j) {
