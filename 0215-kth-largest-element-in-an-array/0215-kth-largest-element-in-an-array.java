@@ -1,31 +1,46 @@
+import java.util.Random;
+
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        return recQuickSelect(nums , 0 , nums.length - 1 , k);
-    }
-    private int recQuickSelect(int[] nums , int start , int end ,int k){
-        int mid =  partition(nums , start , end);
-        int tar = nums.length - k;
+        int n = nums.length;
+        int target = n - k;
+        int start = 0;
+        int end = n - 1;
+        Random rand = new Random();
 
-        if(mid == tar) return nums[mid];
-        else if(mid < tar) return recQuickSelect(nums , mid + 1 , end , k);
-        else return recQuickSelect(nums , start , mid - 1 , k);
-    }
-    private int partition(int[] nums , int start , int end){
-        int i = start - 1;
-        int pivot = nums[end];
+        while (start <= end) {
+            int pivotIndex = rand.nextInt(end - start + 1) + start;
+            swap(nums, pivotIndex, end);
 
-        for(int j = start ; j < end ; j++){
-            if(nums[j] < pivot){
-                i++;
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
+            int mid = partition(nums, start, end);
+
+            if (mid == target) {
+                return nums[mid];
+            } else if (mid < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
             }
         }
-        i++;
+        return -1;
+    }
+
+    private int partition(int[] nums, int start, int end) {
+        int pivot = nums[end];
+        int i = start - 1;
+        for (int j = start; j < end; j++) {
+            if (nums[j] < pivot) {
+                i++;
+                swap(nums, i, j);
+            }
+        }
+        swap(nums, i + 1, end);
+        return i + 1;
+    }
+
+    private void swap(int[] nums, int i, int j) {
         int temp = nums[i];
-        nums[i] = nums[end];
-        nums[end] = temp;
-        return i;
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
