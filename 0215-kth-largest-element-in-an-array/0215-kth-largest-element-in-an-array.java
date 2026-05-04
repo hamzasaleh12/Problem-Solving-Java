@@ -3,7 +3,6 @@ import java.util.Random;
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         int target = nums.length - k;
-        // 1. Shuffle الـ array مرة واحدة عشان نهرب من الـ worst cases
         shuffle(nums);
         
         int start = 0, end = nums.length - 1;
@@ -16,7 +15,6 @@ class Solution {
         return nums[target];
     }
 
-    // Hoare Partition: أسرع بكتير في التعامل مع الـ Duplicates
     private int partition(int[] nums, int left, int right) {
         int pivot = nums[left];
         int i = left + 1;
