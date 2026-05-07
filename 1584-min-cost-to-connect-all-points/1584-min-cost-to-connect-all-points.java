@@ -24,7 +24,7 @@ class Solution {
             visited[idx] = true;
             tarSum += min;
             for(int j = 0 ; j < l ; j++){
-                minDis[j] = Math.min(minDis[j] , dis(idx , j , points));
+                if(!visited[j]) minDis[j] = Math.min(minDis[j] , dis(idx , j , points));
             }
         }
         return tarSum;
