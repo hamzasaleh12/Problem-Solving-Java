@@ -83,6 +83,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -104,6 +105,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -136,6 +138,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
@@ -173,6 +176,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
@@ -262,6 +266,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
@@ -289,6 +294,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
@@ -346,6 +352,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0547-number-of-provinces](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Queue
 |  |
