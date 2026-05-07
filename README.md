@@ -180,6 +180,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0547-number-of-provinces](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Queue
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0547-number-of-provinces](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -437,4 +440,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
