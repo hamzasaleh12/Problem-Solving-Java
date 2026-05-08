@@ -20,8 +20,9 @@ class Solution {
             if(stops < 0 || stops <= minStops[u]) continue;
 
             minStops[u] = stops;
-            
-            for(int[] neighbor : map.getOrDefault(data.curr , new ArrayList<>())){
+
+            if (!map.containsKey(u)) continue;
+            for(int[] neighbor : map.get(u)){
                 pq.add(new Data(neighbor[0], price + neighbor[1] , stops - 1));
             }
         }
