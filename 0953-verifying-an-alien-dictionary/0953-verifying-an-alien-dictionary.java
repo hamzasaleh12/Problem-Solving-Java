@@ -1,11 +1,10 @@
 class Solution {
     public boolean isAlienSorted(String[] words, String order) {
-        Map<Character,Integer> map = new HashMap<>();
-        for(int i = 0 ; i < 26 ; i++){
-            map.put(order.charAt(i) , i);
+        int[] arr = new int[26];
+        for (int i = 0; i < order.length(); i++) {
+            arr[order.charAt(i) - 'a'] = i;
         }
 
-        boolean isInOrder = true;
         for(int i = 1 ; i < words.length ; i++){
             String word1 = words[i - 1] , word2 = words[i];
 
@@ -15,11 +14,13 @@ class Solution {
                 char c1 = word1.charAt(j) , c2 = word2.charAt(j);
 
                 if(c1 != c2){
-                    if(map.get(c1) > map.get(c2)) return false;
+                    if(arr[c1 - 'a'] > arr[c2 - 'a']) return false;
                     else break;
                 }
             }
         }
+        // speed = o(n * k)
+        // space = o(1) -> 26
 
         return true;
     }
