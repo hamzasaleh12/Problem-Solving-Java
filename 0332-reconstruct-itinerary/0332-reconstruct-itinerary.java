@@ -6,7 +6,6 @@ class Solution {
         }
 
         List<String> res = new ArrayList<>();
-        
         dfs("JFK" , map , res);
 
         List<String> result = new ArrayList<>();
