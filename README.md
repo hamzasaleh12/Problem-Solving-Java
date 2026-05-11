@@ -163,6 +163,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -405,6 +406,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -470,4 +472,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
