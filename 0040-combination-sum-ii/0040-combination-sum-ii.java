@@ -12,6 +12,7 @@ class Solution {
             if(val == target) res.add(new ArrayList<>(subset));
             return;
         }
+        if(nums[i] + val > target) return;
 
         subset.add(nums[i]);
         dfs(i + 1 , nums , target , val + nums[i]);
