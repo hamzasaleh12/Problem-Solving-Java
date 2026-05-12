@@ -13,9 +13,9 @@ class Solution {
         }
 
         subset.add(nums[i]);
-        dfs(i , nums , target , val += nums[i]);
+        dfs(i , nums , target , val + nums[i]);
 
         subset.removeLast();
-        dfs(i + 1 , nums , target , val -= nums[i]);
+        dfs(i + 1 , nums , target , val);
     }
 }
