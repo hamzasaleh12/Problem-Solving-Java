@@ -165,6 +165,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
@@ -407,6 +408,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -476,4 +478,5 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
