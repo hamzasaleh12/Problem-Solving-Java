@@ -61,6 +61,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -168,6 +169,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -239,6 +241,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
@@ -309,6 +312,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0417-pacific-atlantic-water-flow) |
@@ -487,5 +491,6 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0046-permutations](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
