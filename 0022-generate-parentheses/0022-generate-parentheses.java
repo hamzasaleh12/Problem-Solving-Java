@@ -9,15 +9,14 @@ class Solution {
     private void backTrack(int open , int close , int n , List<String> res , StringBuilder sb){
         if(open > n || close > n || close > open) return;
         if(open == n && close == n){
-            res.add(new String(sb.toString())); // snapshot
+            res.add(sb.toString()); // snapshot
             return;
         }
         
         sb.append("(");
         backTrack(open + 1 , close , n , res , sb);
 
-        sb.deleteCharAt(sb.length() - 1);
-        sb.append(")");
+        sb.setCharAt(sb.length() - 1 , ')');
         backTrack(open , close + 1 , n , res , sb);
 
         sb.deleteCharAt(sb.length() - 1);
