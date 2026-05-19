@@ -152,6 +152,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Array
@@ -247,6 +248,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -499,4 +501,5 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
