@@ -21,11 +21,11 @@ class Solution {
                 diag1.add(main);
                 diag2.add(anti);
 
-                StringBuilder result = new StringBuilder();
-                for(int k = 0 ; k<n ; k++) result.append(".");
-                result.setCharAt(col , 'Q');
+                char[] charArr = new char[n];
+                Arrays.fill(charArr , '.');
+                charArr[col] = 'Q';
+                part.add(new String(charArr));
 
-                part.add(result.toString());
                 backTrack(row + 1, n , part , res , visited , diag1 , diag2);
 
                 part.removeLast();
