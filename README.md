@@ -170,6 +170,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
@@ -272,6 +273,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0015-3sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
