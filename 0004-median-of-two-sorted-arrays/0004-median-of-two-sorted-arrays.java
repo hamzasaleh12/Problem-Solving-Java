@@ -10,10 +10,9 @@ class Solution {
         merge(nums1 , nums2 , nums3);
         
         int newLength = l1 + l2;
-        if(newLength % 2 != 0){ // odd
+        if(newLength % 2 != 0){
             return nums3[newLength / 2];
         } else{ // even
-            System.out.println(nums3[(newLength / 2) - 1] + " & " + nums3[(newLength / 2)]);
             return (nums3[(newLength / 2) - 1] + nums3[(newLength / 2)]) / 2.0;
         }
     }
