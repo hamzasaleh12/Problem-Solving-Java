@@ -28,14 +28,11 @@ class Solution {
         return s.substring(l , r + 1);
     }
     private int[] helper(int left , int right , String word){
-        while (left >= 0 && right < word.length() && word.charAt(left) == word.charAt(right)) {
+        while(left >= 0 && right < word.length()){
+            if(word.charAt(left) != word.charAt(right)) break;
             left--;
             right++;
         }
-        int trueLeft = left + 1;
-        int trueRight = right - 1;
-        int length = trueRight - trueLeft + 1;
-    
-        return new int[]{trueLeft, trueRight, length};
+        return new int[]{left + 1 , right - 1 , right - left + 1};
     }
 }
