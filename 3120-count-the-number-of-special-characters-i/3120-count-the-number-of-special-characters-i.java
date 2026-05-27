@@ -1,19 +1,21 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        int[] lowerCase = new int[26];
-        int[] upperCase = new int[26];
+        boolean[] visited = new boolean[128];
         int count = 0;
+        int len = word.length();
 
-        for(char c : word.toCharArray()){
-            if(Character.isLowerCase(c)){
-                lowerCase[c - 'a'] = 1;
+        for (int i = 0; i < len; i++) {
+            char c = word.charAt(i);
+            
+            if (visited[c]) continue;
+            
+            visited[c] = true;
+
+            if (c >= 'a'){
+                if (visited[c - 32]) count++;
             } else{
-                upperCase[c - 'A'] = 1;
+                if (visited[c + 32]) count++;
             }
-        }
-
-        for(int i = 0 ; i < 26 ; i++){
-            if(lowerCase[i] == 1 && upperCase[i] == 1) count++;
         }
 
         return count;
