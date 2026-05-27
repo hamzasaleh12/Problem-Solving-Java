@@ -7,17 +7,10 @@ class Solution {
         for(int i = 0 ; i < word.length() ; i++){
             char currentChar = word.charAt(i);
 
-            int index = -1; 
-            boolean isLower = false;
-
             if(Character.isLowerCase(currentChar)){
-                index = currentChar - 'a';
-                isLower = true;
-            } else index = currentChar - 'A';
-
-            if(isLower){
-                lowerCase[index] = i + 1;
+                lowerCase[currentChar - 'a'] = i + 1;
             } else{
+                int index = currentChar - 'A';
                 if(upperCase[index] == 0) upperCase[index] = i + 1;
             }
         }
