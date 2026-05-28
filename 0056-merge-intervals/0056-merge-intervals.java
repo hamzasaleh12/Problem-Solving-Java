@@ -4,20 +4,19 @@ class Solution {
         Arrays.sort(intervals , (a , b) -> Integer.compare(a[0] , b[0]));
 
         int[] current = intervals[0]; // [1,3]
+        res.add(current);
         for(int[] interval : intervals){
-            int currBegain = current[0]; // 1
             int currEnd = current[1]; // 3
-            int nextBegain = interval[0]; // 2
+            int nextStart = interval[0]; // 2
+            int nextEnd = interval[1]; // 2
 
-            if(currEnd >= nextBegain){
-                interval[0] = currBegain;
-                interval[1] = Math.max(interval[1] , currEnd);
+            if(currEnd >= nextStart){
+                current[1] = Math.max(nextEnd , currEnd);
             } else{
+                current = interval;
                 res.add(current);
             }
-            current = interval;
         }
-        res.add(current);
 
         return res.toArray(new int[res.size()][]);
     }
