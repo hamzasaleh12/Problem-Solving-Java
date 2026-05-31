@@ -34,8 +34,8 @@ class Solution {
             if(pq.isEmpty()){
                 res[originalIdx] = -1;
             } else{
-                int val = pq.peek()[1] - pq.peek()[0] + 1;
-                res[originalIdx] = val;
+                int[] best = pq.peek();
+                res[originalIdx] = best[1] - best[0] + 1;
             }
         }
 
