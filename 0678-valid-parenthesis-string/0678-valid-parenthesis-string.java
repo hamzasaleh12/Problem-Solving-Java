@@ -1,28 +1,26 @@
 class Solution {
     public boolean checkValidString(String s) {
-        ArrayDeque<Integer> openStack = new ArrayDeque<>();
-        ArrayDeque<Integer> starStack = new ArrayDeque<>();
-
+        // Range
+        int min = 0;
+        int max = 0;
         for(int i = 0 ; i < s.length() ; i++){
             char curr = s.charAt(i);
             if(curr == '('){
-                openStack.push(i);
-            } else if(curr == '*'){
-                starStack.push(i);
-            } else{ // clean
-                if(openStack.isEmpty()){
-                    if(starStack.isEmpty()) return false;
-                    starStack.pop();
-                } else{
-                    openStack.pop();
-                }
+                min++;
+                max++;
+            } else if(curr == ')'){
+                min--;
+                max--;
+            } else{
+                min--;
+                max++;
             }
-        }
 
-        while(!openStack.isEmpty() && !starStack.isEmpty()){
-            if(openStack.pop() > starStack.pop()) return false;
-        }
+            min = Math.max(min , 0);
 
-        return openStack.isEmpty();
+            if(max < 0) return false;
+        }
+        
+        return min == 0;
     }
 }
