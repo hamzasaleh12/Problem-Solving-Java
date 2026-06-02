@@ -155,6 +155,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0022-generate-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
@@ -177,6 +178,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
@@ -393,6 +395,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
