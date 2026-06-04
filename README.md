@@ -242,6 +242,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -281,6 +282,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -394,6 +396,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -402,6 +405,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Stack
 |  |
