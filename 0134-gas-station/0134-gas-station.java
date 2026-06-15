@@ -1,6 +1,6 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(a[1] , b[1]));
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(b[1] , a[1]));
         int n = gas.length;
         if(n == 1 && gas[0] == cost[0]) return 0;
 
