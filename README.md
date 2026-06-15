@@ -192,6 +192,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
@@ -407,6 +408,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0011-container-with-most-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
