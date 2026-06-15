@@ -13,14 +13,14 @@ class Solution {
         while(!pq.isEmpty()){
             int[] curr = pq.poll();
             int idx = curr[0]; // 3 -> {4}
-            boolean[] visited = new boolean[n];
+            int count = 0;
 
             int currIdx = idx; // 3
             int currSum = gas[currIdx]; // 4
             while(currSum >= cost[currIdx]){
-                if(visited[currIdx]) return idx;
+                if(count == n) return idx;
 
-                visited[currIdx] = true; // t,t,t,t
+                count++; // t,t,t,t
                 int nextIdx = (currIdx != n - 1) ? currIdx + 1 : 0; // 4,0,1,2
 
                 currSum = currSum - cost[currIdx] + gas[nextIdx]; // 8,7,6,5
