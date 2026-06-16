@@ -14,6 +14,6 @@ class Solution {
         }
 
         // check equality
-        return Arrays.equals(new int[]{tar1 , tar2 , tar3} , target);
+        return tar1 == giv1 && tar2 == giv2 && tar3 == giv3;
     }
 }
