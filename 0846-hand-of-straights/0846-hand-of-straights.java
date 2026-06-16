@@ -17,7 +17,7 @@ class Solution {
 
                 if(!map.containsKey(curr) || map.get(curr) == 0) return false;
 
-                map.put(curr , map.get(curr++) - 1);
+                map.put(curr , map.get(curr) - 1);
             }
         }
         return true;
