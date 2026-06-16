@@ -209,6 +209,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
+| [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
@@ -246,6 +247,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
@@ -318,6 +320,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -413,6 +416,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 ## Stack
