@@ -219,6 +219,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -250,6 +251,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -325,6 +327,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -418,6 +421,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 ## Stack
 |  |
