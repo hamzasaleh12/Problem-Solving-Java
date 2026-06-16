@@ -1,7 +1,5 @@
 class Solution {
     public boolean mergeTriplets(int[][] triplets, int[] target) {
-        if(triplets.length == 1) return Arrays.equals(triplets[0] , target);
-
         int giv1 = target[0] , giv2 = target[1] , giv3 = target[2]; // targets (given)
         int tar1 = 0 , tar2 = 0 , tar3 = 0;
 
