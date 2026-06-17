@@ -6,9 +6,12 @@ class Solution {
             return digits;
         }
         
-        int j = n - 1;
-        while(j >= 0 && digits[j] == 9){
-            digits[j--] = 0;
+        for(int j = n - 1 ; j >= 0 ; j--){
+            if(digits[j] == 9) digits[j] = 0;
+            else{
+                digits[j]++;
+                break;
+            }
         }
 
         if(digits[0] == 0){
@@ -17,7 +20,6 @@ class Solution {
             return newDigits;
         }
 
-        digits[j]++;
         return digits;
     }
 }
