@@ -184,6 +184,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
@@ -232,6 +233,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -375,6 +377,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
