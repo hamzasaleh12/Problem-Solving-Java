@@ -3,19 +3,20 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        List<int[]> list = new ArrayList<>();
+        boolean[] setRow = new boolean[rows];
+        boolean[] setCol = new boolean[cols];
         for(int row = 0 ; row < rows ; row++){
             for(int col = 0 ; col < cols ; col++){
                 if(matrix[row][col] == 0){ // 0 , 3
-                    list.add(new int[]{row , col});
+                    setRow[row] = true;
+                    setCol[col] = true;
                 }
             }
         }
 
-        for(int i = 0 ; i < list.size() ; i++){
-            int[] curr = list.get(i);
-            setRows(curr[0] , cols , matrix);
-            setCols(curr[1] , rows , matrix);
+        for(int i = 0 ; i < Math.max(rows,cols) ; i++){
+            if(i < rows && setRow[i]) setRows(i , cols , matrix);
+            if(i < cols && setCol[i]) setCols(i , rows , matrix);
         }
     }
     private void setRows(int row , int cols , int[][] matrix){
