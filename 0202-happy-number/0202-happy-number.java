@@ -1,17 +1,22 @@
 class Solution {
-    Set<Integer> set = new HashSet<>();
-
     public boolean isHappy(int n) {
-        if(n == 1) return true;
-        else if(!set.add(n)) return false;
+        int slow = n;
+        int fast = n;
+        while(true){
+            slow = helper(slow);
+            fast = helper(helper(fast));
 
+            if(fast == 1) return true;
+            else if(slow == fast) return false;
+        }
+    }
+    private int helper(int n){
         int sum = 0;
-        while(n / 10 != 0){
+        while(n > 0){
             int num = n % 10;
             sum += num * num;
             n /= 10;
         }
-        sum += n * n;
-        return isHappy(sum);
+        return sum;
     }
 }
