@@ -177,6 +177,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0045-jump-game-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
@@ -377,6 +378,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
@@ -473,6 +475,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
