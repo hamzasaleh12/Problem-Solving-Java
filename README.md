@@ -181,6 +181,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0057-insert-interval) |
@@ -379,6 +380,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0036-valid-sudoku](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
@@ -595,4 +597,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
