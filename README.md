@@ -283,6 +283,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0005-longest-palindromic-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
@@ -477,6 +478,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
@@ -602,5 +604,6 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
