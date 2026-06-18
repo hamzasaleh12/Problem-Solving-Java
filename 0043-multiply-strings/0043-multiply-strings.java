@@ -1,5 +1,7 @@
 class Solution {
     public String multiply(String num1, String num2) {
+        if (num1.equals("0") || num2.equals("0")) return "0";
+
         int n1 = num1.length() , n2 = num2.length();
         int[] res = new int[n1 + n2];
 
@@ -24,6 +26,6 @@ class Solution {
             sb.append(res[k]);
         }
 
-        return (sb.toString().equals("")) ? "0" : sb.toString();
+        return sb.toString();
     }
 }
