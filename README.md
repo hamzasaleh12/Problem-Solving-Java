@@ -138,6 +138,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -482,6 +483,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
