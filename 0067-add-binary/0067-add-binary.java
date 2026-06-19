@@ -13,8 +13,8 @@ class Solution {
                 
             int sum = numa + numb + c; // 0 or 1 or 2 or 3
 
-            sb.append(sum % 2);
-            c = sum / 2;
+            sb.append(sum & 1);
+            c = sum >> 1;
             i--;
             j--;
         }
