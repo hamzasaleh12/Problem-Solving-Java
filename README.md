@@ -289,6 +289,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0022-generate-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0127-word-ladder) |
@@ -489,6 +490,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0048-rotate-image](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
@@ -517,6 +519,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
@@ -615,4 +618,5 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
