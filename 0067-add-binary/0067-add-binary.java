@@ -12,16 +12,9 @@ class Solution {
             int numb = (j < 0) ? 0 : b.charAt(j) - '0';
                 
             int sum = numa + numb + c; // 0 or 1 or 2 or 3
-            if(sum == 2){
-                sb.append(0);
-                c = 1;
-            } else if(sum == 3){
-                sb.append(1);
-                c = 1;
-            } else{ // sum = 0 or 1
-                sb.append(sum);
-                c = 0;
-            }
+
+            sb.append(sum % 2);
+            c = sum / 2;
             i--;
             j--;
         }
