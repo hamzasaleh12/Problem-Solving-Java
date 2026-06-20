@@ -529,6 +529,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0191-number-of-1-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0476-number-complement) |
 ## Doubly-Linked List
 |  |
 | ------- |
