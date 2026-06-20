@@ -199,6 +199,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0128-longest-consecutive-sequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
@@ -524,6 +525,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
