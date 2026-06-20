@@ -160,6 +160,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -525,6 +526,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
 ## Doubly-Linked List
 |  |
 | ------- |
