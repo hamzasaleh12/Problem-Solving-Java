@@ -1,33 +1,36 @@
 class Solution {
     public void sortColors(int[] nums) {
-        quickSort(nums);
+        mergeSort(nums , nums.length);
     }
-    private void quickSort(int[] nums){
-        recQuickSort(nums , 0 , nums.length - 1);
-    }
-    private void recQuickSort(int[] nums , int low , int high){
-        if(low >= high) return;
+    private void mergeSort(int[] nums , int n){
+        if(n <= 1) return;
+        
+        int mid = n / 2;
+        int[] leftArr = new int[mid];
+        int[] rightArr = new int[n - mid];
 
-        int mid = partition(nums , low , high);
-        recQuickSort(nums , low , mid - 1);
-        recQuickSort(nums , mid + 1 , high);
-    }
-    private int partition(int[] nums , int start , int high){
-        int i = start - 1;
-        int pivot = nums[high];
-        for(int j = start ; j < high ; j++){
-            if(nums[j] < pivot){
-                i++;
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
+        for(int i = 0 ; i < n ; i++){
+            if(i < mid){
+                leftArr[i] = nums[i];
+            } else{
+                rightArr[i - mid] = nums[i];
             }
         }
-        i++;
-        int temp = nums[i];
-        nums[i] = nums[high];
-        nums[high] = temp;
 
-        return i;
+        mergeSort(leftArr , leftArr.length);
+        mergeSort(rightArr , rightArr.length);
+        merge(leftArr , rightArr , nums);
+    }
+    private void merge(int[] leftArr , int[] rightArr , int[] arr){
+        int l = 0 , r = 0 , i = 0;
+        while(l < leftArr.length && r < rightArr.length){
+            if(leftArr[l] < rightArr[r]){
+                arr[i++] = leftArr[l++];
+            }   else{
+                arr[i++] = rightArr[r++];
+            }
+        }
+        while(l < leftArr.length) arr[i++] = leftArr[l++];
+        while(r < rightArr.length) arr[i++] = rightArr[r++];
     }
 }
