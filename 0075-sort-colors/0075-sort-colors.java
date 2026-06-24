@@ -1,36 +1,22 @@
 class Solution {
     public void sortColors(int[] nums) {
-        mergeSort(nums , nums.length);
-    }
-    private void mergeSort(int[] nums , int n){
-        if(n <= 1) return;
-        
-        int mid = n / 2;
-        int[] leftArr = new int[mid];
-        int[] rightArr = new int[n - mid];
-
-        for(int i = 0 ; i < n ; i++){
-            if(i < mid){
-                leftArr[i] = nums[i];
+        int l = 0 , m = 0 , h = nums.length - 1;
+        while(m <= h){
+            if(nums[m] == 0){
+                swap(nums , l , m);
+                l++;
+                m++;
+            } else if(nums[m] == 1){
+                m++;
             } else{
-                rightArr[i - mid] = nums[i];
+                swap(nums , m , h);
+                h--;
             }
         }
-
-        mergeSort(leftArr , leftArr.length);
-        mergeSort(rightArr , rightArr.length);
-        merge(leftArr , rightArr , nums);
     }
-    private void merge(int[] leftArr , int[] rightArr , int[] arr){
-        int l = 0 , r = 0 , i = 0;
-        while(l < leftArr.length && r < rightArr.length){
-            if(leftArr[l] < rightArr[r]){
-                arr[i++] = leftArr[l++];
-            }   else{
-                arr[i++] = rightArr[r++];
-            }
-        }
-        while(l < leftArr.length) arr[i++] = leftArr[l++];
-        while(r < rightArr.length) arr[i++] = rightArr[r++];
+    private void swap(int[] nums , int i , int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
