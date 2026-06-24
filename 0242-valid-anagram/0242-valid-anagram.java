@@ -9,8 +9,7 @@ class Solution {
         }
 
         for(int i = 0 ; i < n ; i++){
-            int idx = t.charAt(i) - 'a';
-            if(--arr[idx] < 0) return false;
+            if(--arr[t.charAt(i) - 'a'] < 0) return false;
         }
 
         return true;
