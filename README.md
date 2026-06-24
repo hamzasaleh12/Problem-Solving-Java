@@ -234,6 +234,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 ## Hash Table
@@ -643,4 +644,5 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0043-multiply-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
