@@ -204,6 +204,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0136-single-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -254,6 +255,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0138-copy-list-with-random-pointer](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0242-valid-anagram) |
@@ -282,6 +284,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -342,6 +345,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0049-group-anagrams](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0268-missing-number) |
@@ -386,6 +390,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
