@@ -1,41 +1,34 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums);
+        mergeSort(nums , new int[nums.length] , 0 , nums.length - 1);
         return nums;
     }
-    private void mergeSort(int[] arr) {
-        if(arr.length == 1) return;
+    private void mergeSort(int[] nums , int[] helper , int l , int h){
+        if(l >= h) return;
+        int m = (l + h) >>> 1;
 
-        int mid = arr.length / 2;
-        int[] leftArr = new int[mid];
-        int[] rightArr = new int[arr.length - mid];
+        mergeSort(nums , helper , l , m);
+        mergeSort(nums , helper , m + 1 , h);
+        merge(nums , helper , l , m , h);
+    }
+    private void merge(int[] nums , int[] helper , int low , int mid , int high){
+        for(int i = low ; i <= high ; i++){
+            helper[i] = nums[i];
+        }
 
-        for(int i = 0 ; i < arr.length ; i++){
-            if(i < mid){
-                leftArr[i] = arr[i];
+        int l = low;
+        int r = mid + 1;
+        int i = low;
+
+        while(l <= mid && r <= high){
+            if(helper[l] <= helper[r]){
+                nums[i++] = helper[l++];
             } else{
-                rightArr[i - mid] = arr[i];
+                nums[i++] = helper[r++];
             }
         }
 
-        mergeSort(leftArr);
-        mergeSort(rightArr);
-        merge(arr , leftArr , rightArr);
-    }
-    private void merge(int[] arr , int[] leftArr , int[] rightArr){
-        int l = 0 , r = 0 , i = 0;
-        while(l < leftArr.length && r < rightArr.length){
-            if(leftArr[l] < rightArr[r]){
-                arr[i] = leftArr[l];
-                i++;
-                l++;
-            } else{
-                arr[i] = rightArr[r];
-                i++;
-                r++;
-            }
-        }
-        while(l < leftArr.length) arr[i++] = leftArr[l++];
-        while(r < rightArr.length) arr[i++] = rightArr[r++];
-    }
+        while(l <= mid) nums[i++] = helper[l++];
+        while(r <= high) nums[i++] = helper[r++];
+    }   
 }
