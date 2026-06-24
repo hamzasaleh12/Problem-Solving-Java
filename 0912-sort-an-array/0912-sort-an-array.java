@@ -29,6 +29,5 @@ class Solution {
         }
 
         while(l <= mid) nums[i++] = helper[l++];
-        while(r <= high) nums[i++] = helper[r++];
     }   
 }
