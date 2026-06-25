@@ -333,6 +333,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
@@ -476,6 +477,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0084-largest-rectangle-in-histogram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
