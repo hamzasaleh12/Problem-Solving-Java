@@ -12,7 +12,7 @@ class Solution {
         while(low <= high){
             int mid = (low + high) >>> 1;
 
-            long hours = 0;
+            int hours = 0;
             for(int pile : piles){
                 hours += Math.ceil((double) pile / mid);
             }
