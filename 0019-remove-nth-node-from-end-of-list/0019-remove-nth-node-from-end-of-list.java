@@ -25,10 +25,6 @@ class Solution {
         }
         if(fast == null) return slow.next;
 
-        if (slow.next == null){
-            return null;
-        }
-
         slow.next = slow.next.next;
 
         return head;
