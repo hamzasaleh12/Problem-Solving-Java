@@ -15,38 +15,37 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        
+        if(head == null) return null;
+
         Node curr = head;
         while(curr != null){
-            Node temp = curr.next;
-            Node newNode = new Node(curr.val);
-            curr.next = newNode;
-            newNode.next = temp;
-            curr = temp;
+            Node temp = curr.next; // 13
+
+            Node newNode = new Node(curr.val); // 7(c)
+            newNode.next = temp; // 7(c) -> 13
+            curr.next = newNode; // 7 -> 7(c) -> 13
+
+            curr = temp; // 13
         }
 
-        curr = head;
-        while(curr != null && curr.next != null){
-            curr.next.random = (curr.random != null ) ? curr.random.next : null;
+        curr = head; // 7
+        while(curr != null){
+            curr.next.random = (curr.random != null) ? curr.random.next : null;
             curr = curr.next.next;
         }
 
-        curr = head;
+        curr = head; // 7
         Node dummy = new Node(-1);
-        Node newHead = dummy;
+        Node copyTail = dummy;
+        while(curr != null){
+            Node temp = curr.next; // 7(c)
+            curr.next = curr.next.next; // 7 -> 13
+            dummy.next = temp; // 7(c) -> 13(c)
 
-        // 7 -> 7 -> 13 -> 13 -> 11 -> 11 -> 10 -> 10 -> 1 -> 1 -> null
-        while(curr != null && curr.next != null){
-            Node copy = curr.next; // 7(c) , 13(c)
-            Node ori = copy.next; // 13 , 11
-
-            curr.next = ori; // 7 -> 13 -> 11
-            newHead.next = copy; // -1 -> 7(c) -> 13(c)
-
-            curr = ori; // 13
-            newHead = copy; // 11
+            curr = curr.next;
+            dummy = dummy.next;
         }
 
-        return dummy.next;
+        return copyTail.next;
     }
 }
