@@ -1,28 +1,24 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        ArrayDeque<Integer> stack = new ArrayDeque<>();
-
-        int sum = 0;
-        for(String token : tokens){
-            if(token.equals("+") || token.equals("-") || token.equals("/") || token.equals("*")){
-                int secNum = (stack.isEmpty()) ? 0 : stack.pop();
-                int firNum = (stack.isEmpty()) ? 0 : stack.pop();
-
-                if(token.equals("+")){
-                    sum = firNum + secNum;
-                } else if(token.equals("-")){
-                    sum = firNum - secNum;
-                } else if(token.equals("*")){
-                    sum = firNum * secNum;
-                } else{
-                    sum = firNum / secNum;
+        int[] stack = new int[tokens.length];
+        int top = -1;
+        for (String s : tokens) {
+            char c = s.charAt(0);
+            
+            if (s.length() == 1 && (c == '+' || c == '-' || c == '*' || c == '/')) {
+                int val2 = stack[top--];
+                int val1 = stack[top--];
+                
+                switch (c) {
+                    case '+' -> stack[++top] = val1 + val2;
+                    case '-' -> stack[++top] = val1 - val2;
+                    case '*' -> stack[++top] = val1 * val2;
+                    case '/' -> stack[++top] = val1 / val2;
                 }
-                stack.push(sum);
-            } else{
-                stack.push(Integer.parseInt(token));
+            } else {
+                stack[++top] = Integer.parseInt(s);
             }
         }
-
-        return stack.peek();
+        return stack[top];
     }
 }
