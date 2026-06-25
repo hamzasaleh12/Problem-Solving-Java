@@ -8,13 +8,12 @@ class Solution {
         int low = 1;
         int high = max;
 
-        int res = 0;
         while(low <= high){
             int mid = (low + high) >>> 1;
 
-            int hours = 0;
+            long hours = 0;
             for(int pile : piles){
-                hours += Math.ceil((double) pile / mid);
+                hours += (pile + mid - 1) / mid;
             }
 
             if(hours <= h){
