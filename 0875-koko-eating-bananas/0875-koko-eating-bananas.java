@@ -18,13 +18,12 @@ class Solution {
             }
 
             if(hours <= h){
-                res = mid;
                 high = mid - 1;
             } else{
                 low = mid + 1;
             }
         }
 
-        return res;
+        return low;
     }
 }
