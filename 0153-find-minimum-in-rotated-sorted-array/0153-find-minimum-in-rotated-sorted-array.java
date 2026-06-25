@@ -3,9 +3,13 @@ class Solution {
         int low = 0;
         int high = nums.length - 1;
         while(low < high){
-            int mid = low + high >>> 1;
-            if(nums[high] > nums[mid]) high = mid;
-            else low = mid + 1;
+            int mid = (low + high) >>> 1;
+
+            if(nums[mid] > nums[high]){
+                low = mid + 1;
+            } else{
+                high = mid;
+            }
         }
         return nums[low];
     }
