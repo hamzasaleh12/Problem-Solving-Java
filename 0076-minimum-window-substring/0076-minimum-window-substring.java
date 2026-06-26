@@ -21,10 +21,10 @@ class Solution {
             if(givArr[currChar] == tarArr[currChar]){ // a == a ? 
                 givUniqueElements++; // 123
             }
-            //System.out.println(givUniqueElements);
 
             while(givUniqueElements == tarUniqueElements){
-                char leftCurr = s.charAt(left);
+                char currLeft = s.charAt(left);
+                givArr[currLeft]--;
 
                 if((right - left + 1) < minLength){
                     minLength = right - left + 1;
@@ -32,11 +32,10 @@ class Solution {
                     r = right + 1;
                 }
 
-                if(givArr[leftCurr] == tarArr[leftCurr]){
+                if(givArr[currLeft] < tarArr[currLeft]){
                     givUniqueElements--;
                 }
-
-                givArr[s.charAt(left++)]--;
+                left++;
             }
         }
         return s.substring(l , r);
