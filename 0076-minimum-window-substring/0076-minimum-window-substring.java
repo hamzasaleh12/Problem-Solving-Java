@@ -1,34 +1,44 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(s == null || t == null || s.length() < t.length()) return "";
+        if(t.length() > s.length()) return "";
 
-        int[] haveArr = new int[128];
-        int have = 0;
-        for(char c : t.toCharArray()){
-            haveArr[c]++;
-            if(haveArr[c] == 1) have++;
+        int[] tarArr = new int[128];
+        int tarUniqueElements = 0;
+        for(int i = 0 ; i < t.length() ; i++){
+            if(tarArr[t.charAt(i)] == 0) tarUniqueElements++;
+            tarArr[t.charAt(i)]++; // b
         }
 
-        int[] needArr = new int[128];
-        int need = 0;
-
-        int minLength = Integer.MAX_VALUE;
-        int left = 0;
+        int[] givArr = new int[128];
+        int givUniqueElements = 0;
         int l = 0 , r = 0;
-        for(int i = 0 ; i < s.length() ; i++){
-            needArr[s.charAt(i)]++;
-            if(needArr[s.charAt(i)] == haveArr[s.charAt(i)]) need++;
+        int left = 0;
+        int minLength = s.length() + 1;
+        for(int right = 0 ; right < s.length() ; right++){
+            char currChar = s.charAt(right);
 
-            while(have == need){
-                if(i - left + 1 < minLength){
-                    minLength = i - left + 1;
-                    l=left ; r=i+1;
+            givArr[currChar]++; // a
+            if(givArr[currChar] == tarArr[currChar]){ // a == a ? 
+                givUniqueElements++; // 123
+            }
+            //System.out.println(givUniqueElements);
+
+            while(givUniqueElements == tarUniqueElements){
+                char leftCurr = s.charAt(left);
+
+                if((right - left + 1) < minLength){
+                    minLength = right - left + 1;
+                    l = left;
+                    r = right + 1;
                 }
-                if(needArr[s.charAt(left)] == haveArr[s.charAt(left)]) need--;
-                needArr[s.charAt(left++)]--;
+
+                if(givArr[leftCurr] == tarArr[leftCurr]){
+                    givUniqueElements--;
+                }
+
+                givArr[s.charAt(left++)]--;
             }
         }
-        
-        return s.substring(l,r);
+        return s.substring(l , r);
     }
 }
