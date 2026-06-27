@@ -1,42 +1,35 @@
 class TimeMap {
-    Map<String , List<Data>> map;
+    record Data(String val , int time){}
+    Map<String,List<Data>> map;
 
-    class Data{
-        int timestamp;
-        String value;
-
-        public Data(String value , int timestamp){
-            this.value = value;
-            this.timestamp = timestamp;
-        }
-}
     public TimeMap() {
         map = new HashMap<>();
     }
     
     public void set(String key, String value, int timestamp) {
         map.computeIfAbsent(key , k -> new ArrayList<>()).add(new Data(value , timestamp));
+        // [foo:[[bar,1]]]
     }
     
     public String get(String key, int timestamp) {
-        List<Data> history = map.get(key);
+        List<Data> data = map.get(key); // [bar,1]
+        String res = "";
 
-        if(history == null) return "";
-        
-            String val = "";
-            int low = 0;
-            int high = history.size() - 1;
-            while(low <= high){
-                int mid = low + high >>> 1;
+        if(data == null) return "";
 
-                if(history.get(mid).timestamp <= timestamp){
-                    val = history.get(mid).value;
-                    low = mid + 1;
-                } 
-                else high = mid - 1;
+        int low = 0; // 0
+        int high = data.size() - 1; // 0
+        while(low <= high){
+            int mid = low + high >>> 1; // 0
+
+            if(timestamp >= data.get(mid).time){ // possible solution
+                res = data.get(mid).val; // res = bar
+                low = mid + 1; // trying to find another solution
+            } else{
+                high = mid - 1;
             }
-
-        return val;
+        }
+        return res; // bar
     }
 }
 
