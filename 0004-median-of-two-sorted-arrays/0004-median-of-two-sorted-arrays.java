@@ -1,30 +1,32 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int l1 = (nums1 != null) ? nums1.length : 0;
-        int l2 = (nums2 != null) ? nums2.length : 0;
-        int totalLength = l1 + l2;
+        if(nums1.length > nums2.length) return findMedianSortedArrays(nums2 , nums1);
 
-        int prev = 0;
-        int curr = 0;
+        int length1 = nums1.length;
+        int length2 = nums2.length;
+        int total = length1 + length2;
+        int half = total / 2;
 
-        int i = 0;
-        int j = 0;
-        for(int count = 0 ; count <= totalLength / 2 ; count++){
-            prev = curr;
-            if (i < l1 && j < l2) {
-                if(nums1[i] <= nums2[j]){
-                    curr = nums1[i++];
-                } else{
-                    curr = nums2[j++];
+        int low = 0 , high = length1 - 1;
+        while(true){
+            int mid = Math.floorDiv(low + high, 2);
+            int secHalf = half - mid - 2;
+
+            int l1 = (mid >= 0) ? nums1[mid] : Integer.MIN_VALUE;
+            int r1 = (mid + 1 < length1) ? nums1[mid + 1] : Integer.MAX_VALUE; 
+            int l2 = (secHalf >= 0) ? nums2[secHalf] : Integer.MIN_VALUE;
+            int r2 = (secHalf + 1 < length2) ? nums2[secHalf + 1] : Integer.MAX_VALUE; 
+
+            if(r2 >= l1 && r1 >= l2){
+                if((total & 1) == 1){
+                    return Math.min(r1 , r2);
                 }
+                return (Math.min(r1 , r2) + Math.max(l1 , l2)) / 2.0;
+            } else if(l1 > r2){
+                high = mid - 1;
             } else{
-                if(i < l1){
-                    curr = nums1[i++];
-                } else {
-                    curr = nums2[j++];
-                }
+                low = mid + 1;
             }
         }
-        return (totalLength % 2 == 0) ? (prev + curr) / 2.0 : curr;
     }
 }
