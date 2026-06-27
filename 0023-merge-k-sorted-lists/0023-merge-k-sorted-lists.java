@@ -11,37 +11,37 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists == null || lists.length == 0) return null;
-        
-        int interval = 1;
-        int k = lists.length;
 
-        while(interval < k){
-            for(int i = 0; i < k - interval ; i += interval * 2){
-                lists[i] = merge(lists[i] , lists[i + interval]);
-            }
-            interval *= 2;
+        int mul = 2;
+        int start = 1;
+        while(start < lists.length){
+            for(int i = start ; i < lists.length ; i += mul){ // 4
+            lists[i - start] = merge(lists[i - start] , lists[i]); // 0=(0,1)  2=(2,3) 4=(4,5) 6=(6,7)
+                                                                  // 0=(0,2)  4=(4,6)
+                                                                  // 0 = (0,4)
+                                                          // 0= 0,1  2= 2,3  4= 4,5  6= 6,7
+                                                          // 0= 0,2  4= 4,6
+            }                                                 // 0= 0,4
+            start *= 2; // 4 , 8
+            mul *= 2; // 8 , 16
         }
-
         return lists[0];
     }
-    private ListNode merge(ListNode list1 , ListNode list2){
+    private ListNode merge(ListNode l1 , ListNode l2){
         ListNode dummy = new ListNode(-1);
         ListNode l3 = dummy;
-
-        while(list1 != null && list2 != null){
-            if(list1.val <= list2.val){
-                l3.next = list1;
-                list1 = list1.next;
+        while(l1 != null && l2 != null){
+            if(l1.val <= l2.val){
+                l3.next = l1;
+                l1 = l1.next;
             } else{
-                l3.next = list2;
-                list2 = list2.next;
+                l3.next = l2;
+                l2 = l2.next;
             }
+
             l3 = l3.next;
         }
-
-        if(list1 != null) l3.next = list1;
-        if(list2 != null) l3.next = list2;
-
+        l3.next = (l1 != null) ? l1 : l2;
         return dummy.next;
     }
 }
