@@ -42,7 +42,7 @@ class LRUCache {
             add(updatedNode);
         } else{
             if(map.size() == capacity){
-                Node lru = map.get(tail.prev.key);
+                Node lru = tail.prev;
                 map.remove(lru.key);
                 remove(lru);
             }
@@ -67,7 +67,6 @@ class LRUCache {
         node.next.prev = node.prev;
         node.prev.next = temp;
     }
-
 }
 
 /*
