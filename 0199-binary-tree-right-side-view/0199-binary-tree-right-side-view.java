@@ -17,23 +17,15 @@ class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         if(root == null) return res;
-
-        ArrayDeque<TreeNode> queue = new ArrayDeque<>();
-        queue.add(root);
-
-        while(!queue.isEmpty()){
-            int n = queue.size();
-
-            for(int i = 0 ; i < n ; i++){
-                TreeNode node = queue.poll();
-
-                if(i == n - 1) res.add(node.val);
-
-                if(node.left != null) queue.add(node.left);
-                if(node.right != null) queue.add(node.right);
-            }
-        }
-
+        inOrder(root , 0 , res);
         return res;
+    }
+    private void inOrder(TreeNode root , int depth , List<Integer> res){
+        if(root == null) return;
+
+        if(depth == res.size()) res.add(root.val);
+
+        inOrder(root.right , depth + 1 , res);
+        inOrder(root.left , depth + 1 , res);
     }
 }
