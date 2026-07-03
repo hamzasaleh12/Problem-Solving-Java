@@ -29,8 +29,6 @@ class Solution {
                 TreeNode node = queue.poll();
                 current.add(node.val);
 
-                System.out.println(node.val);
-
                 if(node.left != null) queue.add(node.left);
                 if(node.right != null) queue.add(node.right);
             }
