@@ -14,15 +14,20 @@
  * }
  */
 class Solution {
+    int count = 0;
     public int goodNodes(TreeNode root) {
-        return helper(root , root.val);
-    }
-    private int helper(TreeNode root , int max){
         if(root == null) return 0;
-        
-        int count =(root.val >= max) ? 1 : 0;
-        int newMax = Math.max(max, root.val);
+        helper(root , root.val);
+        return count;
+    }
+    private void helper(TreeNode root , int max){ // 3 , 3
+        if(root == null) return;
 
-        return count + helper(root.left , newMax) + helper(root.right , newMax);
+        if(root.val >= max){
+            count++; // 1 , 2
+            max = root.val; // 3
+        }
+        helper(root.left , max);
+        helper(root.right , max);
     }
 }
