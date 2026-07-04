@@ -1,21 +1,15 @@
 class Solution {
-    class Data{
-        int x;
-        int y;
-        int dis;
-        public Data(int x ,int y , int dis){
-            this.x = x;
-            this.y = y;
-            this.dis = dis;
-        }
-    }
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<Data> pq = new PriorityQueue<>((a,b) -> Integer.compare(b.dis , a.dis));
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(b[2] , a[2]));
+        int n = points.length;
 
-        for(int i = 0 ; i < points.length ; i++){
-            int x = points[i][0] , y = points[i][1] , dis = x * x + y * y;
-            
-            pq.add(new Data(x , y , dis));
+        int[][] pointsWithDis = new int[n][3];
+        for(int i = 0 ; i < n ; i++){
+            int x = points[i][0]; pointsWithDis[i][0] = x;
+            int y = points[i][1]; pointsWithDis[i][1] = y;
+            pointsWithDis[i][2] = x * x + y * y;
+
+            pq.add(pointsWithDis[i]);
             if(pq.size() > k){
                 pq.poll();
             }
@@ -23,9 +17,9 @@ class Solution {
 
         int[][] res = new int[k][2];
         for(int i = 0 ; i < k ; i++){
-            Data curr = pq.poll();
-            res[i][0] = curr.x;
-            res[i][1] = curr.y;
+            int[] curr = pq.poll();
+            res[i][0] = curr[0];
+            res[i][1] = curr[1];
         }
 
         return res;
