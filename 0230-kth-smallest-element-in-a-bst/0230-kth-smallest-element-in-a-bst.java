@@ -28,6 +28,7 @@ class Solution {
             res = root.val;
             return;
         }
+        
         inOrder(root.right , k);
     }
 }
