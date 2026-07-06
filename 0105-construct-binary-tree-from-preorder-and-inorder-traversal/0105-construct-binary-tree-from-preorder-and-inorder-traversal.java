@@ -15,20 +15,21 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        Map<Integer , Integer> map = new HashMap<>();
+        Map<Integer,Integer> map = new HashMap<>();
         for(int i = 0 ; i < inorder.length ; i++) map.put(inorder[i] , i);
 
-        return helper(0 , preorder.length - 1 , 0 , inorder.length - 1 , preorder , map);
+        return helper(preorder , 0 , 0 , inorder.length - 1 , map);
     }
-    private TreeNode helper(int preStart , int preEnd , int inStart , int inEnd , int[] preorder , Map<Integer , Integer> map){
-        if(preStart > preEnd || inStart > inEnd) return null;
-        TreeNode root = new TreeNode(preorder[preStart]);
+    private TreeNode helper(int[] preorder , int preStart , int inStart , int inEnd , Map<Integer,Integer> map) {
+        if(inStart > inEnd) return null;
 
-        int inRoot = map.get(root.val);
-        int leftSize = inRoot - inStart;
+        TreeNode root = new TreeNode(preorder[preStart]); // 3 , 9
 
-        root.left = helper(preStart + 1 , preStart + leftSize , inStart , inRoot - 1 , preorder , map);
-        root.right = helper(preStart + leftSize + 1 , preEnd , inRoot + 1 , inEnd , preorder , map);
+        int m = map.get(root.val); // 1 , 0
+        int leftSize = m - inStart; // 1 , 0
+
+        root.left = helper(preorder , preStart + 1 , inStart , m - 1 , map); // leftside
+        root.right = helper(preorder , preStart + leftSize + 1 , m + 1 , inEnd , map); // rightSide
 
         return root;
     }
