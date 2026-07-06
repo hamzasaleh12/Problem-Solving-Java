@@ -22,10 +22,10 @@ class Solution {
     private int helper(TreeNode root , int[] max){
         if(root == null) return 0;
 
-        int left = Math.max(0 , helper(root.left , max));
-        int right = Math.max(0 , helper(root.right , max));
+        int left = Math.max(0 , helper(root.left , max)); // 0
+        int right = Math.max(0 , helper(root.right , max)); // 0
 
-        max[0] = Math.max(max[0] , right + left + root.val);
+        max[0] = Math.max(max[0] , left + right + root.val);
 
         return root.val + Math.max(left , right);
     }
