@@ -25,7 +25,9 @@ class Twitter {
             if(tweets.get(f) == null) continue;
 
             List<int[]> tweetsForFriend = tweets.get(f);
-            for(int i = tweetsForFriend.size() - 1 ; i >= 0 ; i--){
+
+            int count = 0;
+            for(int i = tweetsForFriend.size() - 1 ; i >= 0 && count++ < 10 ; i--){
                 pq.add(tweetsForFriend.get(i));
             }
         }
