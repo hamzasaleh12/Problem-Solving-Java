@@ -1,64 +1,59 @@
 class Trie {
-    class TrieNode {
-    TrieNode[] children;
-    boolean isEnd;
+    class Data{
+        Data[] children;
+        boolean isEnd;
 
-    public TrieNode() {
-        this.children = new TrieNode[26];
-        this.isEnd = false;
+        public Data(){
+            children = new Data[26];
+            isEnd = false;
+        }
     }
-}
-
-    private TrieNode root; // general -> first charaters
-
+    
+    Data root;
     public Trie() {
-        root = new TrieNode();
+        root = new Data();
     }
     
     public void insert(String word) {
-        TrieNode curr = root;
+        Data node = root;
 
         for(int i = 0 ; i < word.length() ; i++){
-            char currChar = word.charAt(i);
-            int idx = currChar - 'a';
+            int idx = word.charAt(i) - 'a';
 
-            if(curr.children[idx] == null){
-                curr.children[idx] = new TrieNode();
+            if(node.children[idx] == null){
+                node.children[idx] = new Data();
             }
-            curr = curr.children[idx];
+
+            node = node.children[idx];
         }
-        curr.isEnd = true;
+
+        node.isEnd = true;
     }
     
     public boolean search(String word) {
-        TrieNode curr = root;
+        Data temp = root;
 
         for(int i = 0 ; i < word.length() ; i++){
-            char currChar = word.charAt(i);
-            int idx = currChar - 'a';
+            int idx = word.charAt(i) - 'a';
 
-            if(curr.children[idx] == null){
-                return false;
-            }
+            if(temp.children[idx] == null) return false;
 
-            curr = curr.children[idx];
+            temp = temp.children[idx];
         }
-        return curr.isEnd;
+
+        return temp.isEnd;
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode curr = root;
+        Data temp = root;
 
         for(int i = 0 ; i < prefix.length() ; i++){
-            char currChar = prefix.charAt(i);
-            int idx = currChar - 'a';
+            int idx = prefix.charAt(i) - 'a';
 
-            if(curr.children[idx] == null){
-                return false;
-            }
-
-            curr = curr.children[idx];
+            if(temp.children[idx] == null) return false;
+            temp = temp.children[idx];
         }
+
         return true;
     }
 }
