@@ -33,24 +33,21 @@ class WordDictionary {
       return dfs(0 , root , word);
     }
     private boolean dfs(int i , TreeNode curr, String word){
-        if(i >= word.length()) return curr.isEnd; // base case -> happy
+        if(i == word.length()) return curr.isEnd;
 
-        char currentChar = word.charAt(i);
-        if(currentChar == '.'){
+        if(word.charAt(i) == '.'){
             for(int j = 0 ; j < 26 ; j++){
-                if (curr.children[j] != null) {
-                    if(dfs(i + 1 , curr.children[j] , word)) return true;
+                if(curr.children[j] != null && dfs(i + 1 , curr.children[j] , word)){
+                    return true;
                 }
             }
         } else{
-            int idx = currentChar - 'a';
-            if(curr.children[idx] == null){
-                return false;
-            }
+            int idx = word.charAt(i) - 'a';
+            if(curr.children[idx] == null) return false;
             return dfs(i + 1 , curr.children[idx] , word);
         }
-
         return false;
+
     }
 }
 
