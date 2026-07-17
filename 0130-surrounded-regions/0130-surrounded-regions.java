@@ -5,16 +5,12 @@ class Solution {
         int rows = board.length;
         int cols = board[0].length;
 
-        for(int i = 0 ; i < rows ; i++){ // fir col
+        for(int i = 0 ; i < rows ; i++){ // fir & last col
             if(board[i][0] == 'O') dfs(board , i , 0);
-        }
-        for(int i = 0 ; i < rows ; i++){ // last col
             if(board[i][cols - 1] == 'O') dfs(board , i , cols - 1);
         }
-        for(int i = 0 ; i < cols ; i++){ // fir row
+        for(int i = 0 ; i < cols ; i++){ // fir & last row
             if(board[0][i] == 'O') dfs(board , 0 , i);
-        }
-        for(int i = 0 ; i < cols ; i++){ // last row
             if(board[rows - 1][i] == 'O') dfs(board , rows - 1 , i);
         }
 
