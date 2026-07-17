@@ -28,7 +28,6 @@ class Solution {
         Node newNode = new Node(node.val);
         map.put(node , newNode);
 
-        newNode.neighbors = new ArrayList<>();
         for(Node neighbor : node.neighbors){
             newNode.neighbors.add(cloneGraph(neighbor));
         }
