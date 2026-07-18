@@ -1,27 +1,32 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        if(prerequisites == null || prerequisites.length == 0) return true;
+
         Map<Integer,List<Integer>> map = new HashMap<>();
-        for(int[] pre : prerequisites){
-            map.computeIfAbsent(pre[0] , k -> new ArrayList<>()).add(pre[1]);
+        for(int[] prerequisite : prerequisites){
+            map.computeIfAbsent(prerequisite[1] , k -> new ArrayList<>()).add(prerequisite[0]); // 0 -> 1
         }
 
-        int[] visited = new int[numCourses];
-        for(int i = 0 ; i < numCourses ; i++){
-            if(!dfs(i , visited , map)) return false;
+        // Cycle Detetction
+        int[] isVisisted = new int[numCourses];
+
+        for(int[] num : prerequisites){
+            if(!dfs(map , num[1] , isVisisted)) return false;
         }
 
         return true;
     }
-    private boolean dfs(int key , int[] visited , Map<Integer,List<Integer>> map){
-        if(visited[key] == 1) return false;
-        if(visited[key] == 2 || map.get(key) == null) return true;
+    private boolean dfs(Map<Integer,List<Integer>> map , int course , int[] isVisisted){
+        if(isVisisted[course] == 2) return true;
+        if(isVisisted[course] == 1) return false;
 
-        visited[key]++; // 1
-        for(int n : map.get(key)){
-            if(!dfs(n , visited , map)) return false;
+        isVisisted[course]++;
+        for(int num : map.getOrDefault(course , new ArrayList<>())){
+            if(!dfs(map , num , isVisisted)) return false;
         }
+        isVisisted[course]++;
 
-        visited[key]++; // 2
         return true;
     }
+
 }
