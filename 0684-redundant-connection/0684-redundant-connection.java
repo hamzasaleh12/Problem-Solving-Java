@@ -11,8 +11,8 @@ class Solution {
             int u = find(edge[0] , parent); // 1
             int v = find(edge[1] , parent); // 2
 
-            if(u != v) union(u , v , parent);
-            else return edge;
+            if(u == v) return edge;
+            union(u , v , parent);
         }
         return null;
     }
