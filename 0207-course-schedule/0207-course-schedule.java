@@ -10,8 +10,8 @@ class Solution {
         // Cycle Detetction
         int[] isVisisted = new int[numCourses];
 
-        for(int[] num : prerequisites){
-            if(!dfs(map , num[1] , isVisisted)) return false;
+        for(int i = 0 ; i < numCourses ; i++){
+            if(!dfs(map , i , isVisisted)) return false;
         }
 
         return true;
