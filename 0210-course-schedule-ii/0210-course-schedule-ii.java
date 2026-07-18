@@ -1,34 +1,33 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        Map<Integer,List<Integer>> map = new HashMap<>();
-        for(int[] pre : prerequisites){
-            map.computeIfAbsent(pre[0] , k -> new ArrayList<>()).add(pre[1]);
-        }
+        List<Integer>[] adj = new ArrayList[numCourses];
+        for(int i = 0 ; i < numCourses ; i++) adj[i] = new ArrayList<>();
 
+        for(int[] prerequisite : prerequisites){
+            adj[prerequisite[1]].add(prerequisite[0]);
+        }
+        
         int[] visited = new int[numCourses];
-        List<Integer> result = new ArrayList<>();
+        int[] res = new int[numCourses];
+
+        int[] courses = {numCourses};
         for(int i = 0 ; i < numCourses ; i++){
-            if(!dfs(i , visited , result , map)) return new int[0];
+            if(!dfs(adj , visited , res , i , courses)) return new int[]{};
         }
 
-        int count = 0;
-        int[] res = new int[numCourses];
-        for(int r : result){
-            res[count++] = r;
-        }
         return res;
     }
-    private boolean dfs(int key , int[] visited , List<Integer> result , Map<Integer,List<Integer>> map){
-        if(visited[key] == 1) return false;
-        if(visited[key] == 2) return true;
-        
-        visited[key]++;
-        for(int neighbor : map.getOrDefault(key, new ArrayList<>())){
-            if(!dfs(neighbor , visited , result , map)) return false;
-        }
+    private boolean dfs(List<Integer>[] adj , int[] visited , int[] res , int num , int[] numCourses){
+        if(visited[num] == 2) return true;
+        if(visited[num] == 1) return false;
 
-        visited[key]++;
-        result.add(key);
+        visited[num] = 1;
+        for(int i : adj[num]){
+            if(!dfs(adj , visited , res , i , numCourses)) return false;
+        }
+        visited[num] = 2;
+
+        res[--numCourses[0]] = num;
 
         return true;
     }
