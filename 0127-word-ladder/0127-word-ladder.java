@@ -1,50 +1,37 @@
 class Solution {
+    char[] arr = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> wordSet = new HashSet<>(wordList);
-        if(!wordSet.contains(endWord)) return 0;
+        Set<String> set = new HashSet<>(wordList);
+        if(!set.contains(endWord)) return 0;
 
-        Map<String,List<String>> map = new HashMap<>();
-        wordSet.add(beginWord);
-        int l = beginWord.length();
-
-        for(String word : wordSet){
-            for(int i = 0 ; i < l ; i++){
-                StringBuilder newWord = new StringBuilder(word);
-                newWord.setCharAt(i , '*');
-                map.computeIfAbsent(newWord.toString() , k -> new ArrayList<>()).add(word);
-            }
-        }
-
-        ArrayDeque<String> queue = new ArrayDeque<>();
-        Set<String> set = new HashSet<>();
+        Queue<String> queue = new ArrayDeque<>();
         queue.add(beginWord);
-        set.add(beginWord);
-
-        int count = 1;
-        boolean isFound = false;
+        int count = 0;
         while(!queue.isEmpty()){
             int levelSize = queue.size();
+            count++; //3
 
             for(int k = 0 ; k < levelSize ; k++){
                 String word = queue.poll();
 
-                if (word.equals(endWord)) return count;
+                for(int l = 0 ; l < word.length() ; l++){
+                    StringBuilder newWord = new StringBuilder(word); // hit -> hot
+                    for(int j = 0 ; j < 26 ; j++){
+                        // a - > z
+                        newWord.setCharAt(l , arr[j]);
+                        String tarWord = newWord.toString();
 
-                for(int i = 0 ; i < l ; i++){
-                    StringBuilder newWord = new StringBuilder(word);
-                    newWord.setCharAt(i , '*'); // *it , h*t , *it
+                        if(tarWord.equals(endWord)) return count + 1;
 
-                    List<String> strs = map.getOrDefault(newWord.toString() , new ArrayList<>()); // [hit] , [hit , hot] , [hit]
-                    for(String str : strs){
-                        if(!set.contains(str)){ // f - f,t - f
-                            set.add(str);
-                            queue.add(str);
+                        if(set.contains(tarWord)){
+                            queue.add(tarWord); // hot -- dot,lot -- dog,log -- 
+                            set.remove(tarWord); // cut the cycle
                         }
                     }
-                }
+                }    
             }
-            count++;
         }
+
         return 0;
     }
 }
