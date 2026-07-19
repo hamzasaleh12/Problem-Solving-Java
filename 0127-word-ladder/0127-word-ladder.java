@@ -13,9 +13,10 @@ class Solution {
 
             for(int k = 0 ; k < levelSize ; k++){
                 String word = queue.poll();
+                StringBuilder newWord = new StringBuilder(word);
 
                 for(int l = 0 ; l < word.length() ; l++){
-                    StringBuilder newWord = new StringBuilder(word); // hit -> hot
+                    char orignalChar = word.charAt(l);
                     for(int j = 0 ; j < 26 ; j++){
                         // a - > z
                         newWord.setCharAt(l , arr[j]);
@@ -28,6 +29,7 @@ class Solution {
                             set.remove(tarWord); // cut the cycle
                         }
                     }
+                    newWord.setCharAt(l , orignalChar);
                 }    
             }
         }
