@@ -1,46 +1,36 @@
 class Solution {
-    private static final int[][] drs = {{1,0} , {0,1} , {-1,0} , {0,-1}};
+    private final static int[][] drs = {{0,1} , {1,0} , {-1,0} , {0,-1}};
     public int orangesRotting(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
+        int m = grid.length , n = grid[0].length;
 
+        int oranges = 0;
         ArrayDeque<int[]> queue = new ArrayDeque<>();
-        int freshOrange = 0;
-        for(int i = 0 ; i < rows ; i++){
-            for(int j = 0 ; j < cols ; j++){
-                if(grid[i][j] == 2){
-                    queue.add(new int[] {i , j});
-                } else if(grid[i][j] == 1){
-                    freshOrange++;
-                }
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0 ; j < n ; j++){
+                if(grid[i][j] == 1) oranges++;
+                else if(grid[i][j] == 2) queue.add(new int[]{i,j}); // [0,0]
             }
         }
-
-        if(freshOrange == 0) return 0;
-
-        int mins = 0;
+        
+        int[] rottenOrange = {0};
+        int count = -1;
         while(!queue.isEmpty()){
-            int size = queue.size();
-            boolean isRottin = false;
-
-            for(int i = 0 ; i < size ; i++){
-                int[] curr = queue.poll();
+            int levelSize = queue.size(); // 1
+            count++; // 4
+            for(int i = 0 ; i < levelSize ; i++){
+                int[] curr = queue.poll(); // [0,0]
                 for(int[] d : drs){
-                    int r = curr[0] + d[0];
-                    int c = curr[1] + d[1];
-
-                    if(r >= 0 && r < rows && c >= 0 && c < cols && grid[r][c] == 1){
-                        grid[r][c] = 2;
-                        freshOrange--;
-                        queue.add(new int[] {r,c});
-                        isRottin = true;
-                    }
+                    dfs(curr[0] + d[0] , curr[1] + d[1] , grid , queue , rottenOrange);
+                    // right , left , up , down -> change any 1 to 2 and add it to queue
                 }
             }
-
-            if(isRottin) mins++;
         }
-
-        return (freshOrange == 0) ? mins : -1;
+        return (rottenOrange[0] == oranges) ? Math.max(0,count) : -1;
+    }
+    private void dfs(int r , int c , int[][] grid , ArrayDeque<int[]> queue , int[] rottenOrange){
+        if(r < 0 || r >= grid.length || c < 0 || c >= grid[0].length || grid[r][c] != 1) return;
+        grid[r][c] = 2;
+        rottenOrange[0]++;
+        queue.add(new int[]{r , c});
     }
 }
