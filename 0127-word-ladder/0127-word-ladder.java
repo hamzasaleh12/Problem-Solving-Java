@@ -11,16 +11,16 @@ class Solution {
             int levelSize = queue.size();
             count++;
 
-            for(int k = 0 ; k < levelSize ; k++){
-                StringBuilder newWord = new StringBuilder(queue.poll());
+            for(int i = 0 ; i < levelSize ; i++){
+                char[] chars = queue.poll().toCharArray();
 
-                for(int l = 0 ; l < newWord.length() ; l++){
-                    char orignalChar = newWord.charAt(l);
-                    for(char j = 'a' ; j <= 'z' ; j++){
-                        if(j == orignalChar) continue;
+                for(int l = 0 ; l < chars.length ; l++){
+                    char orignalChar = chars[l];
+                    for(char c = 'a' ; c <= 'z' ; c++){
+                        if(c == orignalChar) continue;
 
-                        newWord.setCharAt(l , j);
-                        String tarWord = newWord.toString();
+                        chars[l] = c;
+                        String tarWord = new String(chars);
 
                         if(tarWord.equals(endWord)) return count + 1;
 
@@ -29,7 +29,7 @@ class Solution {
                             set.remove(tarWord);
                         }
                     }
-                    newWord.setCharAt(l , orignalChar);
+                    chars[l] = orignalChar;
                 }    
             }
         }
