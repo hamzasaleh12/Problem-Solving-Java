@@ -1,42 +1,49 @@
 class Solution {
-    record Data(int node, int dis) {}
-
     public int networkDelayTime(int[][] times, int n, int k) {
-        int[] distance = new int[n + 1];
-        Arrays.fill(distance, Integer.MAX_VALUE);
-        distance[k] = 0;
-
         List<int[]>[] adj = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i++) adj[i] = new ArrayList<>();
+        for(int i = 0 ; i <= n ; i++){
+            adj[i] = new ArrayList<>();
+        }
         
-        for (int[] time : times) {
-            adj[time[0]].add(new int[]{time[1], time[2]});
+        for(int[] time : times){
+            adj[time[0]].add(new int[]{time[1] , time[2]});
         }
 
-        PriorityQueue<Data> queue = new PriorityQueue<>((a, b) -> Integer.compare(a.dis, b.dis));
-        queue.add(new Data(k, 0));
+        // [ [2 -> [1,1] , [3,1]] , [3 -> [4,1]] ]
+        int[] minDis = new int[n + 1];
+        Arrays.fill(minDis , Integer.MAX_VALUE);
 
-        while (!queue.isEmpty()) {
-            Data t = queue.poll();
-            if (distance[t.node] < t.dis) continue;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(a[1] , b[1]));
+        boolean[] visisted = new boolean[n + 1];
 
-            for (int[] neighbor : adj[t.node]) {
-                int targetNode = neighbor[0];
-                int disEdge = neighbor[1];
+        pq.add(new int[]{k , 0});
+        visisted[0] = true;
+        minDis[0] = 0; minDis[k] = 0;
 
-                if (t.dis + disEdge < distance[targetNode]) {
-                    distance[targetNode] = t.dis + disEdge;
-                    queue.add(new Data(targetNode, distance[targetNode]));
+        while(!pq.isEmpty()){
+            int[] curr = pq.poll(); // [2,0]
+
+            int u = curr[0] , dis = curr[1];
+            if(visisted[u]) continue;
+
+            visisted[u] = true;
+            for(int[] num : adj[u]){
+                int nextNode = num[0];
+                int edgeWeight = num[1];
+                int newDist = dis + edgeWeight;
+
+                if(newDist < minDis[nextNode]){
+                    minDis[nextNode] = newDist;
+                    pq.add(new int[]{nextNode, newDist});
                 }
             }
         }
 
         int max = 0;
-        for (int i = 1; i <= n; i++) {
-            if (distance[i] == Integer.MAX_VALUE) return -1;
-            max = Math.max(max, distance[i]);
+        for(int d : minDis){
+            if(d == Integer.MAX_VALUE) return -1;
+            max = Math.max(max , d);
         }
-
         return max;
     }
 }
