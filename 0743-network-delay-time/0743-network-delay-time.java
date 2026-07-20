@@ -12,13 +12,14 @@ class Solution {
         // [ [2 -> [1,1] , [3,1]] , [3 -> [4,1]] ]
         int[] minDis = new int[n + 1];
         Arrays.fill(minDis , Integer.MAX_VALUE);
+        minDis[0] = 0;
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(a[1] , b[1]));
-        boolean[] visisted = new boolean[n + 1];
-
         pq.add(new int[]{k , 0});
+        minDis[k] = 0;
+        
+        boolean[] visisted = new boolean[n + 1];
         visisted[0] = true;
-        minDis[0] = 0; minDis[k] = 0;
 
         while(!pq.isEmpty()){
             int[] curr = pq.poll(); // [2,0]
