@@ -1,31 +1,34 @@
 class Solution {
-    record Data(int row, int col, int height){}
+    private final static int[][] drs = {{0,1} , {1,0} , {0,-1} , {-1,0}};
 
     public int swimInWater(int[][] grid) {
-        if(grid == null || grid.length == 0) return 0;
-        int l = grid.length; int w = grid[0].length;
+        int n = grid.length;
 
-        int[][] drs = {{0,1} , {1,0} , {-1,0} , {0,-1}};
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(a[2] , b[2]));
+        pq.add(new int[]{0,0,grid[0][0]});
+        boolean[][] visisted = new boolean[n][n];
 
-        PriorityQueue<Data> pq = new PriorityQueue<>((a,b) -> Integer.compare(a.height , b.height));
-        boolean[][] visited = new boolean[l][w];
-        pq.add(new Data(0,0,grid[0][0]));
-
+        int max = 0;
         while(!pq.isEmpty()){
-            Data point = pq.poll();
-            if (point.row == l - 1 && point.col == w - 1) return point.height;
+            int[] curr = pq.poll();
+            int x = curr[0] , y = curr[1];
 
-            if(visited[point.row][point.col]) continue;
-            visited[point.row][point.col] = true;
+            if(visisted[x][y]) continue;
+            visisted[x][y] = true;
+
+            max = Math.max(max , curr[2]); // 1
+
+            if(x == n - 1 && y == n - 1) return max;
 
             for(int[] d : drs){
-                int row = point.row + d[0];
-                int col = point.col + d[1];
-                if(row >= 0 && row < l && col >= 0 && col < w && !visited[row][col]){
-                    pq.add(new Data(row , col , Math.max(point.height , grid[row][col])));
+                int r = x + d[0];
+                int c = y + d[1];
+
+                if(r >= 0 && r < n && c >= 0 && c < n && !visisted[r][c]){
+                    pq.add(new int[]{r , c , grid[r][c]}); // 1 , 24
                 }
             }
         }
-        return 0;
+        return max;
     }
 }
