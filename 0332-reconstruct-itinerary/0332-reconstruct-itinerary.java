@@ -8,20 +8,16 @@ class Solution {
         List<String> res = new ArrayList<>();
         dfs("JFK" , map , res);
 
-        List<String> result = new ArrayList<>();
-        for(int i = res.size() - 1 ; i >= 0 ; i--){
-            result.add(res.get(i));
-        }
-        return result;
+        return res.reversed();
     }
     private void dfs(String city , Map<String , PriorityQueue<String>> map , List<String> res){
-        PriorityQueue<String> pq = map.get(city);
+        PriorityQueue<String> pq = map.get(city); // tickets
 
         while(pq != null && !pq.isEmpty()){
-            String nextCity = map.get(city).poll();
+            String nextCity = pq.poll();
             dfs(nextCity , map , res);
         }
 
-        res.add(city);
+        res.add(city); // last city
     }
 }
