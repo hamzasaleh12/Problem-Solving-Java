@@ -11,6 +11,7 @@ class Solution {
             res.add(new ArrayList<>(curr));
             return;
         }
+        if(sum + nums[i] > target) return;
 
         curr.add(nums[i]); // 2 2 2 2
         dfs(i , sum + nums[i] , nums , target , curr , res);
