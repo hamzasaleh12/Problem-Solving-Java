@@ -6,14 +6,13 @@ class Solution {
         return res;
     }
     private void dfs(int i , int sum , int[] nums , int target , List<Integer> curr , List<List<Integer>> res){
-        if(sum > target || i >= nums.length) return;
         if(sum == target){
             res.add(new ArrayList<>(curr));
             return;
         }
-        if(sum + nums[i] > target) return;
+        if(i >= nums.length || sum > target || sum + nums[i] > target) return;
 
-        curr.add(nums[i]); // 2 2 2 2
+        curr.add(nums[i]);
         dfs(i , sum + nums[i] , nums , target , curr , res);
         
         curr.removeLast();
