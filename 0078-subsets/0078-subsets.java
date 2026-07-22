@@ -1,21 +1,19 @@
 class Solution {
-    List<List<Integer>> res = new ArrayList<>();
-
     public List<List<Integer>> subsets(int[] nums) {
-        List<Integer> subset = new ArrayList<>();
-        dfs(0 , nums , subset);
+        List<List<Integer>> res = new ArrayList<>();
+        dfs(0 , nums , new ArrayList<>() , res);
         return res;
     }
-    private void dfs(int i , int[] nums , List<Integer> subset){
+    private void dfs(int i , int[] nums , List<Integer> curr , List<List<Integer>> res){
         if(i >= nums.length){
-            res.add(new ArrayList<>(subset));
+            res.add(new ArrayList<>(curr)); // [1,2,3] , [1,2]
             return;
         }
 
-        subset.add(nums[i]);
-        dfs(i + 1 , nums , subset);
+        curr.add(nums[i]); // 1 , 2 , 3
+        dfs(i + 1 , nums , curr , res);
 
-        subset.removeLast();
-        dfs(i + 1 , nums , subset);
+        curr.removeLast();
+        dfs(i + 1 , nums , curr , res);
     }
 }
