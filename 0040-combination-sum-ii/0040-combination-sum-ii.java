@@ -1,26 +1,23 @@
 class Solution {
-    List<Integer> subset = new ArrayList<>();
-    List<List<Integer>> res = new ArrayList<>();
-
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(candidates);
-        dfs(0 , candidates , target , 0);
+        dfs(0 , 0 , candidates , target , new ArrayList<>() , res);
         return res;
     }
-    private void dfs(int i , int[] nums , int target , int val){
-        if(i >= nums.length || val >= target){
-            if(val == target) res.add(new ArrayList<>(subset));
+    private void dfs(int i , int val , int[] nums , int tar , List<Integer> curr , List<List<Integer>> res){
+        if(val == tar){
+            res.add(new ArrayList<>(curr));
             return;
         }
-        if(nums[i] + val > target) return;
+        if(i >= nums.length || val > tar || val + nums[i] > tar) return;
 
-        subset.add(nums[i]);
-        dfs(i + 1 , nums , target , val + nums[i]);
+        curr.add(nums[i]);
+        dfs(i + 1 , val + nums[i] , nums , tar , curr , res);
 
-        subset.removeLast();
-        while(i + 1 < nums.length && nums[i] == nums[i + 1]){
-            i++;
-        }
-        dfs(i + 1 , nums , target , val);
+        while(i < nums.length - 1 && nums[i] == nums[i + 1]) i++;
+
+        curr.removeLast();
+        dfs(i + 1 , val , nums , tar , curr , res);
     }
 }
