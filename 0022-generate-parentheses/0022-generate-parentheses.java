@@ -1,24 +1,28 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-
-        backTrack(0 , 0 , n , result , sb);
-        return result;
+        List<String> res = new ArrayList<>();
+        dfs(0 , 0 , n , new StringBuilder() , res);
+        return res;
     }
-    private void backTrack(int open , int close , int n , List<String> res , StringBuilder sb){
-        if(open > n || close > n || close > open) return;
-        if(open == n && close == n){
-            res.add(sb.toString()); // snapshot
+    private void dfs(int opened , int closed , int n , StringBuilder sb , List<String> res){
+        if(closed > opened || opened > n) return;
+        if(opened == n && closed == n){
+            res.add(sb.toString());
             return;
         }
-        
-        sb.append("(");
-        backTrack(open + 1 , close , n , res , sb);
 
-        sb.setCharAt(sb.length() - 1 , ')');
-        backTrack(open , close + 1 , n , res , sb);
+        sb.append('('); // ((()(
+        opened++; // 4
+        dfs(opened , closed , n , sb , res);
 
-        sb.deleteCharAt(sb.length() - 1);
+        sb.deleteCharAt(sb.length() - 1); // ((()
+        opened--; // 3
+
+        sb.append(')'); // ((())
+        closed++; // 2
+        dfs(opened , closed , n , sb , res);
+
+        sb.deleteCharAt(sb.length() - 1); // ((()
+        closed--; // 3
     }
 }
