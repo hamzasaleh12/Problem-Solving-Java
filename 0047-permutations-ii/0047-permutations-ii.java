@@ -1,28 +1,26 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<Integer> permute = new ArrayList<>();
-        List<List<Integer>> res = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-
         Arrays.sort(nums);
-        dfs(nums , permute , res , used);
+        List<List<Integer>> res = new ArrayList<>();
+        dfs(nums , new boolean[nums.length] , new ArrayList<>() , res);
         return res;
     }
-    private void dfs(int[] nums , List<Integer> permute , List<List<Integer>> res , boolean[] used){
-        if(nums.length == permute.size()){
-            res.add(new ArrayList<>(permute));
+    private void dfs(int[] nums , boolean[] visisted , List<Integer> curr , List<List<Integer>> res){
+        if(curr.size() == nums.length){
+            res.add(new ArrayList<>(curr));
             return;
         }
+
         for(int i = 0 ; i < nums.length ; i++){
-            if(used[i]) continue;
+            if(visisted[i]) continue;
+            if(i > 0 && nums[i] == nums[i - 1] && !visisted[i - 1]) continue; // if visisted[i - 1] = true that means he placed before so that's not a dublicate
+            
+            visisted[i] = true;
+            curr.add(nums[i]); // 1 , 1 , 2
+            dfs(nums , visisted , curr , res);
 
-            used[i] = true;
-            permute.add(nums[i]);
-            dfs(nums , permute , res , used);
-
-            used[i] = false;
-            permute.removeLast();
-            while(i + 1 < nums.length && nums[i] == nums[i + 1]) i++;
+            curr.removeLast();
+            visisted[i] = false;
         }
     }
 }
