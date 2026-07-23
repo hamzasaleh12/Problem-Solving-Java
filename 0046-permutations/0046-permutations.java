@@ -1,25 +1,24 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<Integer> permute = new ArrayList<>();
         List<List<Integer>> res = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-        dfs(nums , permute , res , used);
+        dfs(nums , new boolean[nums.length] , new ArrayList<>() , res);
         return res;
     }
-    private void dfs(int[] nums , List<Integer> permute , List<List<Integer>> res , boolean[] used){
-        if(nums.length == permute.size()){
-            res.add(new ArrayList<>(permute));
+    private void dfs(int[] nums , boolean[] visisted , List<Integer> curr , List<List<Integer>> res){
+        if(curr.size() == nums.length){
+            res.add(new ArrayList<>(curr));
             return;
         }
+
         for(int i = 0 ; i < nums.length ; i++){
-            if(used[i]) continue;
+            if(visisted[i]) continue;
 
-            used[i] = true;
-            permute.add(nums[i]);
-            dfs(nums , permute , res , used);
+            visisted[i] = true; 
+            curr.add(nums[i]); // 1 , 3 , 2
+            dfs(nums , visisted , curr , res); // i = 1
 
-            used[i] = false;
-            permute.removeLast();
+            visisted[i] = false;
+            curr.removeLast(); // [1]
         }
     }
 }
