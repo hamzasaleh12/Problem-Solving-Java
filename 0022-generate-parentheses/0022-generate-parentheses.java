@@ -12,17 +12,11 @@ class Solution {
         }
 
         sb.append('('); // ((()(
-        opened++; // 4
-        dfs(opened , closed , n , sb , res);
-
+        dfs(opened + 1 , closed , n , sb , res);
         sb.deleteCharAt(sb.length() - 1); // ((()
-        opened--; // 3
 
         sb.append(')'); // ((())
-        closed++; // 2
-        dfs(opened , closed , n , sb , res);
-
+        dfs(opened , closed + 1 , n , sb , res);
         sb.deleteCharAt(sb.length() - 1); // ((()
-        closed--; // 3
     }
 }
