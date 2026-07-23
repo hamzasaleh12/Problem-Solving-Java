@@ -5,22 +5,22 @@ class Solution {
         dfs(nums , new boolean[nums.length] , new ArrayList<>() , res);
         return res;
     }
-    private void dfs(int[] nums , boolean[] visisted , List<Integer> curr , List<List<Integer>> res){
+    private void dfs(int[] nums , boolean[] visited , List<Integer> curr , List<List<Integer>> res){
         if(curr.size() == nums.length){
             res.add(new ArrayList<>(curr));
             return;
         }
 
         for(int i = 0 ; i < nums.length ; i++){
-            if(visisted[i]) continue;
-            if(i > 0 && nums[i] == nums[i - 1] && !visisted[i - 1]) continue; // if visisted[i - 1] = true that means he placed before so that's not a dublicate
+            if(visited[i]) continue;
+            if(i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) continue; // if visited[i - 1] = true that means he placed before so that's not a dublicate
             
-            visisted[i] = true;
+            visited[i] = true;
             curr.add(nums[i]); // 1 , 1 , 2
-            dfs(nums , visisted , curr , res);
+            dfs(nums , visited , curr , res);
 
             curr.removeLast();
-            visisted[i] = false;
+            visited[i] = false;
         }
     }
 }
