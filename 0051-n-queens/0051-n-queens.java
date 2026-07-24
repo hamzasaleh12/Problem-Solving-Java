@@ -1,13 +1,11 @@
 class Solution {
-    List<String> curr = new ArrayList<>();
-    List<List<String>> res = new ArrayList<>();
-
     public List<List<String>> solveNQueens(int n) {
-        boolean[] row = new boolean[n];
-        boolean[] col = new boolean[n];
-        
-        Set<Integer> dia1 = new HashSet<>();
-        Set<Integer> dia2 = new HashSet<>();
+        List<String> curr = new ArrayList<>();
+        List<List<String>> res = new ArrayList<>();
+
+        boolean[] visited = new boolean[n];
+        boolean[] diag1 = new boolean[n * 2];
+        boolean[] diag2 = new boolean[n * 2];
 
         char[][] board = new char[n][n];
         for(int i = 0 ; i < n ; i++){
@@ -15,27 +13,31 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-
-        dfs(board , 0 , row , col , dia1 , dia2 , n);
+        dfs(0 , n , curr , res , visited , diag1 , diag2 , board);
         return res;
     }
-    private void dfs(char[][] board , int r , boolean[] row , boolean[] col , Set<Integer> dia1 , Set<Integer> dia2 , int n){
-        if(r >= n){ // success
+    private void dfs(int r , int n , List<String> curr , List<List<String>> res , boolean[] col , boolean[] dia1 , boolean[] dia2 ,
+    char[][] board){
+
+        if(r == n){
             res.add(new ArrayList<>(curr));
             return;
         }
+        for(int c = 0 ; c < n ; c++){
+            int main = r + c;
+            int anti = r - c + (n - 1);
 
-        for(int c = 0 ; c < n ; c++){ // column number
-            if(row[r] || col[c] || dia1.contains(r - c) || dia2.contains(r + c)) continue;
-            row[r] = true; col[c] = true; dia1.add(r - c); dia2.add(r + c);
-            
-            board[r][c] = 'Q';
-            curr.add(new String(board[r])); // [.Q..]
-            dfs(board , r + 1 , row , col , dia1 , dia2 , n);
+            if(!col[c] && !dia1[main] && !dia2[anti]){
+                col[c] = true; dia1[main] = true; dia2[anti] = true;
 
-            board[r][c] = '.';
-            curr.removeLast();
-            row[r] = false; col[c] = false; dia1.remove(r - c); dia2.remove(r + c);
+                board[r][c] = 'Q';
+                curr.add(new String(board[r]));
+                dfs(r + 1, n , curr , res , col , dia1 , dia2 , board);
+
+                board[r][c] = '.';
+                curr.removeLast();
+                col[c] = false; dia1[main] = false; dia2[anti] = false;
+            }
         }
     }
 }
