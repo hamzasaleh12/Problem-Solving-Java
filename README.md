@@ -161,6 +161,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0045-jump-game-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
@@ -528,6 +529,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0066-plus-one](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0268-missing-number) |
@@ -668,4 +670,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
