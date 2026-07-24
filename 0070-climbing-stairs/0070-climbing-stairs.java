@@ -1,18 +1,13 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] arr = new int[n + 1];
-        arr[n] = 1 ; arr[n - 1] = 1;
+        int b1 = 1 ; int b2 = 1;
+
         for(int i = n - 2 ; i >= 0 ; i--){
-            arr[i] = arr[i + 1] + arr[i + 2];
+            int temp = b1; // 3
+            b1 = b1 + b2; // 5
+            b2 = temp; // 3
         }
-        return arr[0];
-    }
-    private int dfs(int sum , int n , int[] arr){
-        if(sum == n) return 1;
-        if(sum > n) return 0;
 
-        if(arr[sum] != 0) return arr[sum];
-
-        return arr[sum] = dfs(sum + 1 , n , arr) + dfs(sum + 2 , n , arr);
+        return b1;
     }
 }
