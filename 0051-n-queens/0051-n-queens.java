@@ -13,31 +13,30 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-        dfs(0 , n , curr , res , visited , diag1 , diag2 , board);
+        dfs(0 , n , res , visited , diag1 , diag2 , board);
         return res;
     }
-    private void dfs(int r , int n , List<String> curr , List<List<String>> res , boolean[] col , boolean[] dia1 , boolean[] dia2 ,
+    private void dfs(int r , int n , List<List<String>> res , boolean[] col , boolean[] dia1 , boolean[] dia2 ,
     char[][] board){
 
         if(r == n){
+            List<String> curr = new ArrayList<>();
+            for(char[] row : board) curr.add(new String(row));
+            
             res.add(new ArrayList<>(curr));
             return;
         }
         for(int c = 0 ; c < n ; c++){
-            int main = r + c;
-            int anti = r - c + (n - 1);
+            int main = r + c; int anti = r - c + (n - 1);
+            if(col[c] || dia1[main] || dia2[anti]) continue;
 
-            if(!col[c] && !dia1[main] && !dia2[anti]){
-                col[c] = true; dia1[main] = true; dia2[anti] = true;
+            col[c] = true; dia1[main] = true; dia2[anti] = true;
+            board[r][c] = 'Q';
 
-                board[r][c] = 'Q';
-                curr.add(new String(board[r]));
-                dfs(r + 1, n , curr , res , col , dia1 , dia2 , board);
+            dfs(r + 1 , n , res , col , dia1 , dia2 , board);
 
-                board[r][c] = '.';
-                curr.removeLast();
-                col[c] = false; dia1[main] = false; dia2[anti] = false;
-            }
+            col[c] = false; dia1[main] = false; dia2[anti] = false;
+            board[r][c] = '.';
         }
     }
 }
