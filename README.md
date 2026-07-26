@@ -165,6 +165,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
@@ -212,6 +213,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0215-kth-largest-element-in-an-array) |
