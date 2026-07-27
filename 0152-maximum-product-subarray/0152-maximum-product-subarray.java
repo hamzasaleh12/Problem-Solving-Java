@@ -11,7 +11,7 @@ class Solution {
             currMax = Math.max(num , Math.max(num * currMin , num * currMax));
             currMin = Math.min(num , Math.min(num * currMin , num * temp)); // 3 , -6 , -4
 
-            max = Math.max(max , Math.max(currMax , currMin)); // 6
+            max = Math.max(max , currMax); // 6
         }
         
         return max;
