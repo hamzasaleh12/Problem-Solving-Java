@@ -166,6 +166,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
@@ -213,6 +214,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0134-gas-station](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0198-house-robber) |
