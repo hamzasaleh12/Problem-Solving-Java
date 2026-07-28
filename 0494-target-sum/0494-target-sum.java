@@ -1,15 +1,23 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        int[][] memo = new int[nums.length][2001];
-        for(int[] row : memo) Arrays.fill(row , -1);
-        return dfs(0 , 0 , nums , target , memo);
-    }
-    private int dfs(int i , int sum , int[] nums , int tar , int[][] memo){
-        if(i == nums.length){
-            return (sum == tar) ? 1 : 0;
-        }
-        if(memo[i][sum + 1000] != -1) return memo[i][sum + 1000];
+        int totalSum = 0;
+        for (int num : nums) totalSum += num;
 
-        return memo[i][sum + 1000] = dfs(i + 1 , sum + nums[i] , nums , tar , memo) + dfs(i + 1 , sum - nums[i] , nums , tar , memo);
+        if (Math.abs(target) > totalSum || ((target + totalSum) & 1) == 1) {
+            return 0;
+        }
+
+        int subsetSum = (target + totalSum) / 2;
+
+        int[] dp = new int[subsetSum + 1];        
+        dp[0] = 1;
+
+        for (int num : nums) {
+            for (int j = subsetSum; j >= num; j--) {
+                dp[j] += dp[j - num];
+            }
+        }
+
+        return dp[subsetSum];
     }
 }
