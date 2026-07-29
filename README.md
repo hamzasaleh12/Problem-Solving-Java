@@ -556,6 +556,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
@@ -581,6 +582,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0050-powx-n](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
