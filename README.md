@@ -176,6 +176,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0416-partition-equal-subset-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -239,6 +240,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0417-pacific-atlantic-water-flow](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
