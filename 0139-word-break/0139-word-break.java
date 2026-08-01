@@ -1,13 +1,18 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         Set<String> set = new HashSet<>(wordDict);
-        return dfs(0 , 1 , s , set , new Boolean[s.length()][s.length() + 1]);
+        return dfs(0 , s , set , new Boolean[s.length()]);
     }
-    private boolean dfs(int i , int j , String s , Set<String> set , Boolean[][] memo){ // 0 , 1
+    private boolean dfs(int i , String s , Set<String> set , Boolean[] memo){ // 0 , 1
         if(i == s.length()) return true; // 2
-        if(j > s.length()) return false; // 3
-        if(memo[i][j] != null) return memo[i][j];
+        if(memo[i] != null) return memo[i];
 
-        return memo[i][j] = (set.contains(s.substring(i , j))) ? dfs(i , j + 1 , s , set , memo) || dfs(j , j + 1 , s , set , memo) : dfs(i , j + 1 , s , set , memo);
+        for(int j = i + 1 ; j <= s.length() ; j++){
+            if(set.contains(s.substring(i , j)) && dfs(j, s, set, memo)){
+                return memo[i] = true;
+            }
+        }
+
+        return memo[i] = false;
     }
 }
