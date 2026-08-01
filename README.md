@@ -185,6 +185,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -362,6 +363,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
@@ -498,6 +500,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
