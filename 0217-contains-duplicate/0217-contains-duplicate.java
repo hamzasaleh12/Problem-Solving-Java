@@ -1,10 +1,8 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-         // o(n^2) -> o(n) -> o(n log(n))
-         // o(1) -> o(n) -> o(1)
-        Set<Integer> set = new HashSet<>(); // add o(1) , remove o(1) , contains o(1)
-        for(int num : nums){
-            if(!set.add(num)) return true;
+        Arrays.sort(nums); // [1,1,2,3]
+        for(int i = 0 ; i < nums.length - 1; i++){
+            if(nums[i] == nums[i + 1]) return true;
         }
         return false;
     }
