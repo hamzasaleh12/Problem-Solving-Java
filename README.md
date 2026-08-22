@@ -265,6 +265,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
@@ -319,6 +320,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
@@ -397,6 +399,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0355-design-twitter](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 ## Sorting
@@ -605,6 +608,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -648,6 +652,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
 ## Data Stream
 |  |
 | ------- |
