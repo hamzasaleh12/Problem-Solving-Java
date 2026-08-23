@@ -374,6 +374,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0242-valid-anagram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
+| [0344-reverse-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
@@ -516,6 +517,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
