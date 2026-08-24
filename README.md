@@ -385,6 +385,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
@@ -523,6 +524,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0647-palindromic-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
+| [1768-merge-strings-alternately](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
