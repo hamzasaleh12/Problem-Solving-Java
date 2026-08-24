@@ -1,20 +1,20 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         if(nums2 == null || nums2.length == 0) return;
-        
-        List<Integer> list = Arrays.stream(nums2).boxed().toList(); 
-        PriorityQueue<Integer> pq = new PriorityQueue<>(list);
 
-        for(int i = 0 ; i < m ; i++){
-            if(nums1[i] > pq.peek()){ // 3 <= 2 ?
-                int t = nums1[i]; // 3
-                nums1[i] = pq.poll(); // [1,2,2,0,0,0]
-                pq.add(t); // 3,5,6
+        int i = m - 1 , j = n - 1 , k = nums1.length - 1;
+        // [1,2,-1,3,5,6] , [2,5,6]
+        while(j >= 0 && i >= 0){
+            if(nums1[i] >= nums2[j]){
+                nums1[k--] = nums1[i--];
+                nums1[i + 1] = -1;
+            } else{
+                nums1[k--] = nums2[j--];
             }
         }
-
-        for(int i = m ; i < nums1.length ; i++){
-            nums1[i] = pq.poll();
+        
+        while (j >= 0) {
+            nums1[k--] = nums2[j--];
         }
     }
 }
