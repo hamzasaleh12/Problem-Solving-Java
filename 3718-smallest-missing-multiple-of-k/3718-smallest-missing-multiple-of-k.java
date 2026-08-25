@@ -1,7 +1,7 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        List<Integer> list = Arrays.stream(nums).boxed().toList();
-        Set<Integer> set = new HashSet<>(list);
+        Set<Integer> set = new HashSet<>();
+        for(int num : nums) set.add(num);
 
         int num = k; 
         while(set.contains(num)){
