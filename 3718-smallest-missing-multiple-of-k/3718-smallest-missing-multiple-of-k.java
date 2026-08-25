@@ -1,10 +1,10 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        Set<Integer> set = new HashSet<>();
-        for(int num : nums) set.add(num);
+        boolean[] set = new boolean[101 * 101];
+        for(int num : nums) set[num] = true;
 
         int num = k; 
-        while(set.contains(num)){
+        while(set[num]){
             num += k;
         }
 
