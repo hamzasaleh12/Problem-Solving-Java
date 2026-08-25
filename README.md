@@ -291,6 +291,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
