@@ -395,6 +395,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Design
@@ -513,6 +514,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
 | ------- |
