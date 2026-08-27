@@ -336,6 +336,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -475,6 +477,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -784,4 +788,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
