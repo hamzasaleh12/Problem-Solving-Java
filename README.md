@@ -291,6 +291,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -444,6 +445,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -590,6 +592,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
 |  |
 | ------- |
