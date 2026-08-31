@@ -643,6 +643,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0355-design-twitter](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
