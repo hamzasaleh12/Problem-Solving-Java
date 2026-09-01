@@ -116,6 +116,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -337,6 +339,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -506,6 +509,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -669,6 +673,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0338-counting-bits](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0476-number-complement) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Doubly-Linked List
 |  |
 | ------- |
