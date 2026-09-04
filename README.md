@@ -298,6 +298,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -518,6 +519,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
