@@ -298,6 +298,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -347,6 +348,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -674,6 +676,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0143-reorder-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -819,6 +822,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
