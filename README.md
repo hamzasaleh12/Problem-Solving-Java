@@ -643,6 +643,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0070-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0371-sum-of-two-integers) |
@@ -727,6 +728,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Radix Sort
