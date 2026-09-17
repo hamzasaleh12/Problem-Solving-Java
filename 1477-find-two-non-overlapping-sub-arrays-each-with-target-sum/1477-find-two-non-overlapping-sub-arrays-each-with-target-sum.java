@@ -30,6 +30,6 @@ class Solution {
             }
         }
 
-        return (ans >= INF) ? -1 : ans;
+        return (ans == INF) ? -1 : ans;
     }
 }
