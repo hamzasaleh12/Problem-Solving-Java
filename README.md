@@ -354,6 +354,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -418,6 +419,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -469,6 +471,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -593,6 +596,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
