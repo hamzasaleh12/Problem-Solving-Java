@@ -664,6 +664,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0371-sum-of-two-integers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
@@ -747,6 +748,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0223-rectangle-area](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Radix Sort
 |  |
 | ------- |
