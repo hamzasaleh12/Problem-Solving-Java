@@ -428,6 +428,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
@@ -824,6 +825,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0054-spiral-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
