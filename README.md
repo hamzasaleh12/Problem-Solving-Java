@@ -160,6 +160,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -298,6 +299,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
@@ -358,6 +360,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -546,6 +549,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3903-smallest-stable-index-i) |
@@ -560,6 +564,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0438-find-all-anagrams-in-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
