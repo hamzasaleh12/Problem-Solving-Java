@@ -117,6 +117,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -358,6 +359,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -425,6 +427,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0940-distinct-subsequences-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1768-merge-strings-alternately) |
@@ -478,6 +481,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -624,6 +628,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -818,6 +823,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
