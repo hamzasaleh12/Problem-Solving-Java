@@ -1,16 +1,17 @@
 class Solution {
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length , n = grid[0].length;
-        if(grid[0][0] == ')' || grid[m - 1][n - 1] == '(') return false;
+        int pathLength = m + n - 1;
+        if(grid[0][0] == ')' || grid[m - 1][n - 1] == '(' || (pathLength & 1) != 0) return false;
 
-        return dfs(0 , 0 , 0 , grid , new int[m][n][m + n]); // 10^2 * 10^2 * 10^3 -> 10^7
+        return dfs(0 , 0 , 0 , grid , new int[m][n][m + n]); // 10^2 * 10^2 * 10*2-> 10^6
     }
     private boolean dfs(int i , int j , int count , char[][] grid , int[][][] dp){
         if(i == grid.length - 1 && j == grid[0].length - 1) return count == 1;
         if(i >= grid.length || j >= grid[0].length || count < 0) return false;
 
         if(dp[i][j][count] != 0){
-            return (dp[i][j][count] == 2) ? true : false;
+            return dp[i][j][count] == 2;
         }
         
         int newCount = (grid[i][j] == '(') ? count + 1 : count - 1;
