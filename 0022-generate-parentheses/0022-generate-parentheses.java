@@ -1,22 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        dfs(0 , 0 , n , new StringBuilder() , res);
+        backtrack(n , 0 , 0 , new StringBuilder() , res);
         return res;
     }
-    private void dfs(int opened , int closed , int n , StringBuilder sb , List<String> res){
-        if(closed > opened || opened > n) return;
+    private void backtrack(int n , int opened , int closed , StringBuilder sb , List<String> res){ // o(2^n)
+        if(opened > n || closed > opened) return;
         if(opened == n && closed == n){
-            res.add(sb.toString());
+            res.add(sb.toString()); // passed by value o(n)
             return;
         }
 
-        sb.append('('); // ((()(
-        dfs(opened + 1 , closed , n , sb , res);
-        sb.deleteCharAt(sb.length() - 1); // ((()
+        sb.append('(');
+        backtrack(n , opened + 1 , closed , sb , res);
 
-        sb.append(')'); // ((())
-        dfs(opened , closed + 1 , n , sb , res);
-        sb.deleteCharAt(sb.length() - 1); // ((()
+        sb.setCharAt(sb.length() - 1 , ')');
+        backtrack(n , opened , closed + 1 , sb , res);
+
+        sb.deleteCharAt(sb.length() - 1);
     }
 }
