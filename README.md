@@ -432,6 +432,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0680-valid-palindrome-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
@@ -621,6 +622,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0680-valid-palindrome-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -644,6 +646,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0739-daily-temperatures](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -905,6 +908,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0032-longest-valid-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
