@@ -1,17 +1,16 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Deque<Integer> stack = new ArrayDeque<>();
-        int min = 0;
+        int minInserions = 0;
+        int sizeOfStack = 0;
 
-        int curr = 0;
         for(int i = 0 ; i < s.length() ; i++){
-            if(s.charAt(i) == '(') curr++; // inc
+            if(s.charAt(i) == '(') sizeOfStack++; // inc
             else{
-                if(curr <= 0) min++; // ())
-                else curr--; // dec
+                if(sizeOfStack <= 0) minInserions++; // ())
+                else sizeOfStack--; // dec
             }
         }
 
-        return min + curr;
+        return minInserions + sizeOfStack;
     }
 }
