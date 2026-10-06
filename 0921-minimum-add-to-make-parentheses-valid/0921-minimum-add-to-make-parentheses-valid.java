@@ -3,19 +3,15 @@ class Solution {
         Deque<Integer> stack = new ArrayDeque<>();
         int min = 0;
 
+        int curr = 0;
         for(int i = 0 ; i < s.length() ; i++){
-            if(s.charAt(i) == '(') stack.push(i);
+            if(s.charAt(i) == '(') curr++; // inc
             else{
-                if(stack.isEmpty()) min++; // ())
-                else stack.pop();
+                if(curr <= 0) min++; // ())
+                else curr--; // dec
             }
         }
 
-        while(!stack.isEmpty()){ // (()
-            stack.pop();
-            min++;
-        }
-
-        return min;
+        return min + curr;
     }
 }
