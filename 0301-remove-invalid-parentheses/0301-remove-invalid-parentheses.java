@@ -1,53 +1,50 @@
 class Solution {
     public List<String> removeInvalidParentheses(String s) {
-        int n = s.length();
-        // 1.Get the number of inValid parentheses(k) -> o(n)
-        int stack = 0;
-        int remOpened = 0 , remClosed = 0;
-        for(char c : s.toCharArray()){
-            if(c == '(') stack++; // ++
-            else if(c == ')'){
-                if(stack <= 0) remClosed++; // ())
-                else stack--; // --
+        int remOpen = 0, remClose = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                remOpen++;
+            } else if (c == ')') {
+                if (remOpen > 0) remOpen--;
+                else remClose++;
             }
         }
-        remOpened = stack;
 
         Set<String> result = new HashSet<>();
-        // 2.Try all possible ways to remove (k) paranthses(result) -> o(n * 2^k)
-        dfs(0 , remOpened , remClosed , s , new StringBuilder() , result);
-
+        dfs(0, remOpen, remClose, 0, s, new StringBuilder(), result);
         return new ArrayList<>(result);
     }
-    private void dfs(int i , int remOpened , int remClosed , String s, StringBuilder sb , Set<String> res){ // ()())()
-        if(i == s.length() && remOpened == 0 && remClosed == 0 && isValid(sb)){
-            res.add(sb.toString());
+
+    private void dfs(int i, int remOpen, int remClose, int balance, String s, StringBuilder sb, Set<String> res) {
+        if (remOpen < 0 || remClose < 0 || balance < 0) {
             return;
         }
-        if(i >= s.length() || remOpened < 0 || remClosed < 0) return;
-        
-        char c = s.charAt(i);
-        if(c == '(') {
-            dfs(i + 1 , remOpened - 1 , remClosed , s , sb , res); // didn't take it
-        } else if(c == ')'){
-            dfs(i + 1 , remOpened , remClosed - 1 , s , sb , res); // didn't take it
+
+        if (i == s.length()) {
+            if (remOpen == 0 && remClose == 0 && balance == 0) {
+                res.add(sb.toString());
+            }
+            return;
         }
+
+        char c = s.charAt(i);
+
+        if (c == '(') {
+            dfs(i + 1, remOpen - 1, remClose, balance, s, sb, res);
+        } else if (c == ')') {
+            dfs(i + 1, remOpen, remClose - 1, balance, s, sb, res);
+        }
+
 
         sb.append(c);
-        dfs(i + 1 , remOpened , remClosed , s , sb , res); // take it
+        if (c == '(') {
+            dfs(i + 1, remOpen, remClose, balance + 1, s, sb, res);
+        } else if (c == ')') {
+            dfs(i + 1, remOpen, remClose, balance - 1, s, sb, res);
+        } else {
+            dfs(i + 1, remOpen, remClose, balance, s, sb, res);
+        }
+
         sb.deleteCharAt(sb.length() - 1);
     }
-    private boolean isValid(StringBuilder sb){
-        int stack = 0;
-        for(int i = 0 ; i < sb.length() ; i++){
-            char c = sb.charAt(i);
-
-            if(c == '(') stack++; // ++
-            else if(c == ')'){
-                if(stack <= 0) return false; // ())
-                else stack--; // --
-            }
-        }
-        return stack == 0;
-    } 
 }
