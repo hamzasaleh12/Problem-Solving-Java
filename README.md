@@ -107,6 +107,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0210-course-schedule-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0417-pacific-atlantic-water-flow) |
@@ -422,6 +423,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0212-word-search-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -844,6 +846,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0090-subsets-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
 ## Trie
