@@ -164,6 +164,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -314,6 +315,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -503,6 +505,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
@@ -525,6 +528,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -634,6 +638,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
