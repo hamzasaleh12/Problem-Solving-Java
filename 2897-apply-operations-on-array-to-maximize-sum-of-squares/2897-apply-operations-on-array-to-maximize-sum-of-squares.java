@@ -16,11 +16,11 @@ class Solution {
             long curr = 0;
             for(int j = 0 ; j < 32 ; j++){
                 if(bitwise[j] > 0){
-                    curr = ((curr % MOD) + ((1 << j) % MOD)) % MOD;
+                    curr |= (1 << j);
                     bitwise[j]--;
                 }
             }
-            sum = ((sum % MOD) + ((curr % MOD) * (curr % MOD)) % MOD) % MOD;
+            sum = (sum + (curr * curr) % MOD) % MOD;
         }
 
         return (int) sum;
