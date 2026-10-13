@@ -1,22 +1,29 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
         int n = nums.length;
+        int[] freq = new int[40005];
 
-        for(int i = 0 ; i < n ; i++){
-            if(nums[i] < 0) nums[i] *= -1;
+        for (int x : nums) {
+            freq[Math.abs(x)]++;
         }
-        Arrays.sort(nums);
-        //for(int num : nums) System.out.println(num);
-        
-        int left = 0 , right = n - 1;
+
+        int left = 0;
+        int right = 40000;
         long sum = 0;
-        while(left < right){
-            sum += (nums[right] * nums[right]) - (nums[left] * nums[left]); // 8
-            left++;
-            right--;
+
+        for (int p = 0; p < n / 2; p++) {
+            while (freq[left] == 0) left++;
+            while (freq[right] == 0) right--;
+
+            sum += (long) right * right - (long) left * left;
+            freq[left]--;
+            freq[right]--;
         }
 
-        if(left == right) sum += nums[right] * nums[right];
+        if ((n & 1) == 1) {
+            while (freq[right] == 0) right--;
+            sum += (long) right * right;
+        }
 
         return sum;
     }
