@@ -318,6 +318,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -378,6 +379,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2013-detect-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2013-detect-squares) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -923,6 +925,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -939,4 +942,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
