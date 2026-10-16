@@ -1,9 +1,15 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        LinkedHashSet<Integer> list = new LinkedHashSet<>(Arrays.stream(nums).boxed().toList());
+        int n = nums.length;
 
+        boolean[] visited = new boolean[201];
         int k = 0;
-        for(Integer num : list) nums[k++] = num;
+        for(int right = 0 ; right < n ; right++){
+            if(!visited[nums[right] + 100]){
+                nums[k++] = nums[right];
+                visited[nums[right] + 100] = true;
+            }
+        }
 
         return k;
     }
