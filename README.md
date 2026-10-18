@@ -58,6 +58,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -141,6 +142,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0572-subtree-of-another-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -162,6 +164,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0875-koko-eating-bananas](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -208,6 +211,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0940-distinct-subsequences-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -304,6 +308,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
@@ -407,6 +412,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0912-sort-an-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -697,6 +703,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
@@ -731,6 +738,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
@@ -904,10 +912,12 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0070-climbing-stairs](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Game Theory
 |  |
@@ -955,4 +965,8 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
