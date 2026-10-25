@@ -3,11 +3,7 @@ class Solution {
         int[] month = {0,31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         for(int i = 1 ; i < 13 ; i++){
             month[i] += month[i - 1];
-            // System.out.print(month[i] + " ");
         }
-        // System.out.println(" ");
-        // System.out.println("month is: " + Integer.parseInt(arriveAlice.substring(0 , 2))
-        //  + " day is: " + Integer.parseInt(arriveAlice.substring(2)));
 
         int aliceArr = month[Integer.parseInt(arriveAlice.substring(0 , 2)) - 1] + Integer.parseInt(arriveAlice.substring(3));
         int aliceLea = month[Integer.parseInt(leaveAlice.substring(0 , 2)) - 1] + Integer.parseInt(leaveAlice.substring(3));
