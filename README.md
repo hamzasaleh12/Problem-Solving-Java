@@ -91,6 +91,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0743-network-delay-time](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -120,6 +121,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0787-cheapest-flights-within-k-stops](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -307,6 +309,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1254-number-of-closed-islands) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -597,6 +600,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -712,6 +716,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0684-redundant-connection](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0778-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
