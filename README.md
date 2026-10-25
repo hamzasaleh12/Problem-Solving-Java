@@ -475,6 +475,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
+| [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -750,6 +751,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
