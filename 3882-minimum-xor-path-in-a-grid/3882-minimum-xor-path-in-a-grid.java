@@ -1,7 +1,7 @@
 class Solution {
     int[] min = {Integer.MAX_VALUE};
     public int minCost(int[][] grid) {
-        dfs(0 , 0 , grid , new boolean[grid.length][grid[0].length][1025] , grid[0][0]);
+        dfs(0 , 0 , grid , new boolean[grid.length][grid[0].length][1 << 10] , grid[0][0]);
         return min[0];
     }
     private void dfs(int i , int j , int[][] grid , boolean[][][] dp , int res){
