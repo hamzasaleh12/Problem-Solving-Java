@@ -12,16 +12,15 @@ class Solution {
         if(dp[i][j][res]){
             return;
         }
+        dp[i][j][res] = true;
 
         if(j + 1 < grid[0].length) {
             int newRes = res ^ grid[i][j + 1];
             dfs(i , j + 1 , grid , dp , newRes);
-            dp[i][j + 1][newRes] = true;
         }
         if(i + 1 < grid.length) {
             int newRes = res ^ grid[i + 1][j];
             dfs(i + 1 , j , grid , dp , newRes);
-            dp[i + 1][j][newRes] = true;
         }
     }
 }
