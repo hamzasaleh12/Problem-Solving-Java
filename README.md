@@ -294,6 +294,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0417-pacific-atlantic-water-flow](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -535,6 +536,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0332-reconstruct-itinerary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0853-car-fleet) |
@@ -769,6 +771,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0326-power-of-three](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1401-circle-and-rectangle-overlapping) |
