@@ -224,6 +224,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -342,6 +343,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -413,6 +415,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -577,6 +580,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1851-minimum-interval-to-include-each-query](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
@@ -646,6 +650,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -781,6 +786,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
