@@ -221,6 +221,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0940-distinct-subsequences-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
@@ -327,6 +328,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -653,6 +655,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1732-find-the-highest-altitude) |
@@ -813,6 +816,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0836-rectangle-overlap](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
