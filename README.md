@@ -508,6 +508,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -990,6 +991,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [0067-add-binary](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
