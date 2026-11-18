@@ -515,6 +515,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3498-reverse-degree-of-a-string) |
