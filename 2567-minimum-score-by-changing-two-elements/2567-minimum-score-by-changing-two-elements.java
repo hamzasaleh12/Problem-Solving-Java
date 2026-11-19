@@ -1,9 +1,20 @@
 class Solution {
     public int minimizeSum(int[] nums) {
-        int n = nums.length;
-        if(n == 3) return 0;
+        Integer[] max = {Integer.MIN_VALUE, Integer.MIN_VALUE, Integer.MIN_VALUE, 0};
+        int[] min = {Integer.MAX_VALUE, Integer.MAX_VALUE, Integer.MAX_VALUE, 0};
 
-        Arrays.sort(nums); // [28,28,42,58,58]
-        return Math.min(nums[n - 1] - nums[2] ,Math.min(nums[n - 3] - nums[0] , nums[n-2] - nums[1]));
+        for (int num : nums) {
+            max[3] = num;
+            Arrays.sort(max, (a,b) -> Integer.compare(b,a));
+
+            min[3] = num;
+            Arrays.sort(min);
+        }
+
+        int dropTwoSmallest = max[0] - min[2];
+        int dropTwoLargest  = max[2] - min[0];
+        int dropOneEach     = max[1] - min[1];
+
+        return Math.min(dropTwoSmallest, Math.min(dropTwoLargest, dropOneEach));
     }
 }
