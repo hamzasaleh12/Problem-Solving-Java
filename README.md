@@ -841,6 +841,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1872-stone-game-viii](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3524-find-x-value-of-array-i) |
@@ -1018,6 +1019,7 @@ Strengthen problem-solving skills for **Software Engineering Internships and Jun
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/hamzasaleh12/Problem-Solving-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
